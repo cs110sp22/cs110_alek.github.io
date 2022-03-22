@@ -37,23 +37,23 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 
 
 ## Course Staff
-We have 11 peer mentors (undergraduates) and a graduate TA to help you:
+We have 10 peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Ariella Silver (a.silver@u.northwestern.edu)
-* Caroline Lobel (carolinelobel2022@u.northwestern.edu)
-* Olivia Gallager (oliviagallager2022@u.northwestern.edu)
-* Olivier Gabison (oliviergabison2022@u.northwestern.edu)
-* Nicole Villalba (nicolevillalba2022@u.northwestern.edu)
-* Alberta Yoo (albertayoo2022@u.northwestern.edu)
-* Barbara Sledz (barbarasledz2022@u.northwestern.edu)
-* Kendall Clark (kendallclark2023@u.northwestern.edu)
-* Chase Duvall (chaseduvall2023@u.northwestern.edu)
-* Poom Sombutboon (poomsombutboon2022@u.northwestern.edu)
-* Linxin Chen (linxinchen2022@u.northwestern.edu)
+* Han Lee (hanlee2024@u.northwestern.edu)
+* Iphigenie Bera (iphigeniebera2024@u.northwestern.edu)
+* Amy Chen (amychen2024@u.northwestern.edu)
+* Vaibhav Sancheti (vaibavsancheti2022@u.northwestern.edu)
+* Griffin Minster (griffinminster2024@u.northwestern.edu)
+* Isaac Kim (isaackim2024@u.northwestern.edu)
+* Henry Pereira (henrypereira2022@u.northwestern.edu)
+* Alexis Diaz-Waterman (alexisdiaz-waterman2024@u.northwestern.edu)
+* Anna Xiao (annaxiao2024@u.northwestern.edu)
+* Andre Tsai (andretsai2024@u.northwestern.edu)
+
 
 ### Graduate Teaching Assistant
-* Ammar Gilani (ammargilani2024@u.northwestern.edu)
+* Madhav Suresh (madhav@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
