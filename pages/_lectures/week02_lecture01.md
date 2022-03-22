@@ -1,0 +1,78 @@
+---
+layout: module
+title: The Building Blocks
+type: lecture
+draft: 0
+num: 2
+show_schedule: 1
+description:
+  - Variables, operators, data types, and built-in functions
+due_date: 2022-04-06
+quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140102
+slides:
+  - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharing
+    title: The Building Blocks of Programming
+  - url: https://drive.google.com/file/d/1bP8SInoijPix9414fJNpQos_WzXRBNXY/view?usp=sharing
+    title: Supplementary Slides for Live Lecture
+videos:
+   - url: https://drive.google.com/file/d/17r4sb3aGox7ahHOiN70QN8j8eUeQc0j2/view?usp=sharing
+     duration: |
+            14:20
+        
+     title: Using the Lecture Files
+   - url: https://drive.google.com/file/d/16y88APZ5aqZFmsr1O5mUWfkl33RyYld0/view?usp=sharing
+     duration: |
+            22:16
+        
+     title: Data Types & Variables
+   - url: https://drive.google.com/file/d/1sySZPzGpaJXtm-P7XRHVuVjahte-3d7C/view?usp=sharing
+     title: Operators
+     duration: |
+            14:42
+        
+   - url: https://drive.google.com/file/d/1ECSdQveq1BGMiAPJupR8cJW2jzdL8Anv/view?usp=sharing
+     title: Built-in Functions
+     duration: |
+            20:04
+        
+   - url: https://drive.google.com/file/d/1MkYFDka8cd31IrIB8-JkgC6LDd-p0Wc6/view?usp=sharing
+     live: 1
+     title: Practice with variables, constants, & operators
+     duration: |
+        
+
+readings:
+  - title: "Ch2: Variables"
+    author: "Severance"
+    url: https://www.py4e.com/html3/02-variables
+    video_url: https://www.py4e.com/lessons/memory
+  - title: "Ch2: Variables"
+    author: "Heinold"
+    url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
+
+extras:
+  - title: "Tutorial Signups"
+    comments: "You MUST sign up for a tutorial session"
+    url: "https://docs.google.com/spreadsheets/d/1qqGSVE0h_yYyQRYANfGRVM4izwg2_d4YAcQQNJzZkWw/edit?usp=sharing"
+    external: 1
+
+exercise_url: "lecture02.zip"
+---
+
+<img class="module-image" src="/spring2022/assets/images/lectures/lecture_02_blocks.jpg" />Python (and all programmming languages) are made up of very small "words" (like nouns and verbs) that can be composed into meaningful "sentances" (i.e. code blocks that do something useful). Today we are going to review some of the basic building blocks of code, including data types, operators, and variables.<br><br>In addition to the lectures and videos, there are also some sample python files that you will need to download and run (using IDLE). If, for any reason, you are having trouble installing IDLE (instructions can be found in the first part of [homework 1](../assignments/hw1)), reach out to your TA or sign-up for an office hours session. Please keep your files organized (as explained in hw01). I recommend a folder structure like this:
+
+```
+cs110
+    |-- homework
+    │   |-- hw01
+    │   |-- hw02
+    |   ...
+    |-- lectures
+    │   -- lecture01
+    │   -- lecture02
+    │   ...
+    |-- tutorials
+        |-- tutorial01
+        |-- tutorial02
+        ...
+```
