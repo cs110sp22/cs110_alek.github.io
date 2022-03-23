@@ -21,12 +21,12 @@ A second goal of the course is to introduce you to the fundamental constructs of
 ## Course Format
 
 ### Lectures
-Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, tutorial activities, and (sometimes) mini-quizzes. We **will** still be using the scheduled lecture time for more interactive Q&A sessions on Zoom with Sarah to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
+Lectures will a combination of synchronous and asynchronous content, which will include a combination of slides, pre-recorded lectures, "live-coding" videos (during lecture), programming exercises, tutorial activities, and (sometimes) mini-quizzes. We will still be using the scheduled lecture time for more interactive Q&A sessions to answer any questions about the material for that day. Organizationally, some topics/modules span multiple lectures (see the [course schedule](../)). 
 
-**Bottom line**: You are encouraged to attend the regularly scheduled lecture sessions on Zoom, but everything will be recorded and posted to the website, and therefore it is possible to successfully complete this course without ever attending a "live" lecture.
+**Bottom line**: You are encouraged to attend the regularly scheduled live lectures, but videos (either from this year’s or last year’s lectures) will be posted to the website.
 
 ### Tutorial Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on Friday, 4/2. There will be around 22 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
+The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on Friday, 4/1. There will be around 10 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
 
 These tutorials have a few goals:
 1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
@@ -71,7 +71,7 @@ As this is a programming course, you will be using some free software programs a
 ## Getting Questions Answered
 
 ### Office Hours
-Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. We have 12 TAs/Peer Mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs, so do shop around to find a TA with whom you work well...and drop in sooner rather than later! 
+Office hours (and tutorials) are hands down **THE BEST** resource this course has to offer. We have 11 TAs/Peer Mentors whose job is to help you to be successful and find your own power as current and future programmers. That said, it's up to you to take initiave and cultivate a weekly / bi-weekly office-hours-going practice that works for you and your schedule. This looks different for everyone: some people go to 1-2 office hours sessions per week and finish their homework with a TA nearby (if needed). Other students never go to office hours (though this is rare, as the homeworks and projects are challenging). Also, different people connect with different TAs, so do shop around to find a TA with whom you work well...and drop in sooner rather than later! 
 
 The kinds of questions that are perfectly legitimate to ask in office hours include (but are not limited to):
 
