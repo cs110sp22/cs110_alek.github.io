@@ -43,7 +43,7 @@ We have 10 peer mentors (undergraduates) and a graduate TA to help you:
 * Han Lee (hanlee2024@u.northwestern.edu)
 * Iphigenie Bera (iphigeniebera2024@u.northwestern.edu)
 * Amy Chen (amychen2024@u.northwestern.edu)
-* Vaibhav Sancheti (vaibavsancheti2022@u.northwestern.edu)
+* Vaibhav Sancheti (vaibhavsancheti2022@u.northwestern.edu)
 * Griffin Minster (griffinminster2024@u.northwestern.edu)
 * Isaac Kim (isaackim2024@u.northwestern.edu)
 * Henry Pereira (henrypereira2022@u.northwestern.edu)
