@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 12
-due_date: 2022-05-13
+due_date: 2022-05-12
 slides: 
    - title: "Working with Files"
      url: https://drive.google.com/file/d/1yAABKk0F1R6xaZ6Wox5ciOf8BQ-9m2yw/view?usp=sharing

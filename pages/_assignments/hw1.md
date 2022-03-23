@@ -4,7 +4,7 @@ title: |
     Installation & Introductory Exercises
 abbreviation: HW1
 type: homework
-due_date: 2022-04-09
+due_date: 2022-04-08
 ordering: 1
 draft: 0
 points: 8
@@ -26,11 +26,11 @@ points: 8
 
 We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment.
 
-Download the latest version (3.9.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
+Download the latest version (3.10.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
 
-After going through the installation process, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to Applications > Python 3.9 (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).
+After going through the installation process, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to Applications > Python 3.10 (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).
 
-Inside, the Python 3.9 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:
+Inside, the Python 3.10 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:
 
 <img class="screenshot" src="/spring2022/assets/images/hw01/idle1.png" />
 

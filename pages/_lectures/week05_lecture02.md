@@ -8,7 +8,7 @@ description:
 type: lecture
 draft: 0
 num: 9
-due_date: 2022-04-29
+due_date: 2022-04-28
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
      url: https://drive.google.com/file/d/1MGiBsoDvwmAIejdTCDv-6IChDS3D2Lip/view?usp=sharing

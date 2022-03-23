@@ -7,7 +7,7 @@ num: 2
 show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
-due_date: 2022-04-06
+due_date: 2022-04-05
 quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140102
 slides:
   - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharing

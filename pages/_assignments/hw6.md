@@ -4,7 +4,7 @@ title: |
     Recommendation App: Part I
 abbreviation: HW6
 type: homework
-due_date: 2022-06-04
+due_date: 2022-06-03
 points: 8
 draft: 0
 ---

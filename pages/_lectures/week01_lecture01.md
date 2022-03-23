@@ -7,7 +7,7 @@ draft: 0
 show_schedule: 1
 description:
     - Intro to the course
-due_date: 2022-04-01
+due_date: 2022-03-31
 slides:
    - url: https://docs.google.com/presentation/d/1Hz0mdbZfpMBCaZVmH6AaMLeyGutDlBArx7Anv-kjHzc/edit?usp=sharing
      title: Hardware & Software

@@ -6,7 +6,7 @@ description:
     - Quiz 1 of 3 (using the Lockdown Browser)
 draft: 0
 num: 1
-due_date: 2022-04-22
+due_date: 2022-04-21
 
 ---
 ## Study Materials

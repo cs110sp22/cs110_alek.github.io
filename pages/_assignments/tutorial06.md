@@ -6,7 +6,7 @@ abbreviation: Tutorial 6
 draft: 0
 num: 4
 points: 3
-due_date: 2022-05-12
+due_date: 2022-05-11
     
 ---
 

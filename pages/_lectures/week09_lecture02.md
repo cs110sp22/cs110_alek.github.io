@@ -8,7 +8,7 @@ description:
 type: lecture
 draft: 0
 num: 16
-due_date: 2022-05-27
+due_date: 2022-05-26
 exercise_url: "lecture16.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"
