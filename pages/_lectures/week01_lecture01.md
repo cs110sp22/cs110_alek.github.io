@@ -14,7 +14,8 @@ slides:
    - url: https://docs.google.com/presentation/d/17MgNLbGE5VaoCAVknsIJQ--s_MK3uLr8z_yNkb1R5cY/edit?usp=sharing
      title: Course Logistics
 videos:
-   - url: "https://drive.google.com/file/d/11Fp-6gKmJQr5T8tPhw9o7s-KyC9m0lhh/view?usp=sharing"
+
+   - url: "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
      duration: |
             38:20
         
