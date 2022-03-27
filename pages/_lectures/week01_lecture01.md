@@ -19,11 +19,6 @@ videos:
             38:20
         
      title: Hardware & Software
-   - url: https://drive.google.com/file/d/1ocQqjE5ZVLkHUfW-6nzr6P6v7PSw_iZh/view?usp=sharing
-     title: Course Logistics
-     duration: |
-            1:14:03
-     live: 1
 
 extras:
   - title: "Course Questionnaire"
