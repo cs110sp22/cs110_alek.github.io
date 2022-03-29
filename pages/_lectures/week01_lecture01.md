@@ -8,6 +8,12 @@ show_schedule: 1
 description:
     - Intro to the course
 due_date: 2022-03-31
+slides:
+   - url: https://docs.google.com/presentation/d/15IBvC8D2LHwh_O_f0wJIr3p0K6SeU8XU/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
+     title: Hardware & Software
+   - url: https://docs.google.com/presentation/d/1NZ0GU-AW5AnmfOmPkLgmQoShn4ohZXBE/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
+     title: Course Logistics
+
 videos:
    - url: "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
      duration: |
