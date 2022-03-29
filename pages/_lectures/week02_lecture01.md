@@ -10,32 +10,32 @@ description:
 due_date: 2022-04-05
 quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140102
 slides:
-  - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharin://docs.google.com/presentation/d/1FGs9ZGihXqyr2oWU1W64CWzTFCGYAQtw/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: The Building Blocks of Programming
   - url: https://drive.google.com/file/d/1bP8SInoijPix9414fJNpQos_WzXRBNXY/view?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos:
-   - url: https://drive.google.com/file/d/17r4sb3aGox7ahHOiN70QN8j8eUeQc0j2/view?usp=sharing
+   - url: https://drive.google.com/file/d/1JwW-VlsGZvvz90ZUUZ5AANrzNgvDrbLL/view?usp=sharing
      duration: |
             14:20
         
      title: Using the Lecture Files
-   - url: https://drive.google.com/file/d/16y88APZ5aqZFmsr1O5mUWfkl33RyYld0/view?usp=sharing
+   - url: https://drive.google.com/file/d/1VIi2rUgne9npXH2VuXQRsKPPEQlVfLOT/view?usp=sharing
      duration: |
             22:16
         
      title: Data Types & Variables
-   - url: https://drive.google.com/file/d/1sySZPzGpaJXtm-P7XRHVuVjahte-3d7C/view?usp=sharing
+   - url: https://drive.google.com/file/d/1csk59rXGM2g8sbtL9XEPvEhs_mQzBixc/view?usp=sharing
      title: Operators
      duration: |
             14:42
         
-   - url: https://drive.google.com/file/d/1ECSdQveq1BGMiAPJupR8cJW2jzdL8Anv/view?usp=sharing
+   - url: https://drive.google.com/file/d/1xAkHUGewIpKQgh7wxDAOw_IAYZVtWU1G/view?usp=sharing
      title: Built-in Functions
      duration: |
             20:04
         
-   - url: https://drive.google.com/file/d/1MkYFDka8cd31IrIB8-JkgC6LDd-p0Wc6/view?usp=sharing
+   - url: https://nucs110.com/lectures/week02-lecture01 
      live: 1
      title: Practice with variables, constants, & operators
      duration: |
