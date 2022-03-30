@@ -7,6 +7,7 @@ files: course-files/assignments/hw05.zip
 due_date: 2022-05-27
 points: 8
 draft: 0
+published: false
 ---
 <style>
     .bash-small .highlighter-rouge {

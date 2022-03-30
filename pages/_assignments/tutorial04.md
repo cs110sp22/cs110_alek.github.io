@@ -7,6 +7,7 @@ draft: 0
 points: 3
 num: 4
 due_date: 2022-04-27 
+published: false
 ---
 
 <a class="nu-button" href="/spring2022/course-files/tutorials/tutorial04.zip" target="_blank">
