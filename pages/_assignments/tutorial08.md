@@ -10,7 +10,6 @@ draft: 0
 num: 8
 points: 3
 due_date: 2022-05-25
-published: false
 ---
 
 <style>

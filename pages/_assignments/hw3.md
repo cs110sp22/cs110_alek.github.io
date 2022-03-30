@@ -7,7 +7,6 @@ due_date: 2022-04-22
 ordering: 3
 points: 8
 draft: 0
-published: false
 ---
 
 <a class="nu-button" href="/spring2022/course-files/homework/hw03.zip" target="_blank">

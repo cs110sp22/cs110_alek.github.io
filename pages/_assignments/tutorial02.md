@@ -10,7 +10,6 @@ description:
     - Practice creating custom functions
     - Intro to Tkinter
 due_date: 2022-04-13
-published: false
 ---
 
 <a class="nu-button" href="/spring2022/course-files/tutorials/tutorial02.zip" target="_blank">
