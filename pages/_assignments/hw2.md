@@ -6,10 +6,10 @@ type: homework
 due_date: 2022-04-15
 ordering: 1 
 points: 8
-draft: 0
+draft: 1
 ---
 
-<a class="nu-button" href="/spring2022/course-files/homework/hw02.zip" target="_blank">
+<a class="nu-button" href="/course-files/homework/hw02.zip" target="_blank">
     Homework Starter Files <i class="fas fa-download"></i>
 </a> 
 
