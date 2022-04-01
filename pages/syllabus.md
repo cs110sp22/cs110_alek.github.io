@@ -8,7 +8,7 @@ permalink: /syllabus/
 | **Term** | Spring, 2022 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
-| **Instructor** | Aleksandar Kuzmanovic |
+| **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
 | **Lecture Location** | Technological Institute Auditorium|
