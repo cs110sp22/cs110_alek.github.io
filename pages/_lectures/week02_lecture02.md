@@ -12,35 +12,30 @@ description:
     - Lists and tuples (sequences)
 due_date: 2022-04-07
 slides:
-  - url: https://drive.google.com/file/d/1jSgXy68W5OFooUXyxJ5YRfPX_F6buG3g/view?usp=sharing
+  - url: https://docs.google.com/presentation/d/1yNOO31B4off_u9wAh541qroD2muYkKTa/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: "The Command Line, Running Python, Lists & Tuples"
   - url: https://drive.google.com/file/d/13w6d_cbnnOHK_WXmXq8pK_LbG7kd1y-I/view?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos: 
-  - url: https://drive.google.com/file/d/1QnyGfPtk311Kck0OK_NmDsyQ2GvTyhsO/view?usp=sharing
+  - url: https://drive.google.com/file/d/1qts2R6w1DdVdXGcUlq-mQncQfgrNcP80/view?usp=sharing
     duration: "6:57"
     title: |
       Intro
-  - url: https://drive.google.com/file/d/1FtyfXbO-I-VP4DWKrPd2cTwDX6QlLwUE/view?usp=sharing
+  - url: https://drive.google.com/file/d/19xbkGMWmUMBWIyHqHn8G54Ches8su6EV/view?usp=sharing
     duration: "5:51"
     title: |
       Demo: Working with the Command Line
-  - url: https://drive.google.com/file/d/13vEFboRtEZdbtmqZxzZbh1eJzufWYN8i/view?usp=sharing
+  - url: https://drive.google.com/file/d/17uiow23zjFocCpb1AsMUKKwUsXFaWDpG/view?usp=sharing
     duration: "6:11"
     title: |
       Installing Python
-  - url: https://drive.google.com/file/d/1dYGqfrawhEXTUy98upwnxXBs9sGX9mN2/view?usp=sharing
+  - url: https://drive.google.com/file/d/1duxSRv-qZQ9rtR-5HFEDFqZH1dr_oOLw/view?usp=sharing
     duration: "7:07"
     title: |
       Demo: 3 Ways to Execute Python
-  - url: https://drive.google.com/file/d/156Unoa0VWU825LNv5HCRfoiS4mKduj_f/view?usp=sharing
+  - url: https://drive.google.com/file/d/1Stf1NvgLuQLFijOMOuhjx1eG-ZgxLA1j/view?usp=sharing
     title: "Lists & Tuples"
     duration: "13:14"
-  - url: https://drive.google.com/file/d/14L6NSE8zdhN2c69jY-Zgr8ot1dGDMsX7/view?usp=sharing
-    live: 1
-    title: Practice with the command line, lists, and tuples
-    duration: |
-        1:21:09
         
 readings:
   - title: "Ch9: Lists"
