@@ -96,7 +96,7 @@ For grading questions/concerns you should go to the graduate TA’s grading offi
 For any other issues that you think are not appropriate for the peer mentors or graduate TAs, please come talk to me. This might include things like concerns about your progress in the course, questions about content from my lectures, personal matter related to your participation in the course, larger grade concerns, advice about future courses, majors and internships, etc.
 
 ## Office Hours
-Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/times-locations/">here</a>. See the course Canvas page for the Zoom password.
+Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/cal/">here</a>. See the course Canvas page for the Zoom password.
 
 ## Grading
 Your course grade is calculated based on 200 points as follows:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Office Hours & Tutorial Times
-permalink: /times-locations/
+permalink: /cal/
 ---
 
 # Office Hours
