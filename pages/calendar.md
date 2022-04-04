@@ -26,6 +26,19 @@ permalink: /times-locations/
 
 # Tutorials
 
-|Day   |Time|Location|Instructor|
-|------|----|--------|----------|
-
+|Day   |Time    |Location  |Instructor |
+|------|--------|----------|-----------|
+|Mon   |1pm     |Tech L170 | Madhav    |
+|Mon   |2pm     |Mudd 3532 | Iphigenie |
+|Mon   |3pm     |Tech EG20 | Isaac     |
+|Mon   |3pm     |Tech M120 | Madhav    |
+|Mon   |4pm     |Tech L160 | Madhav    |
+|Mon   |5pm     |Mudd 3532 | Vaibhav   |
+|Tue   |11:30am |Mudd 3532 | Alexis    |
+|Tue   |12:30pm |Mudd 3532 | Han       |
+|Tue   |3pm     |Mudd 3532 | Griffin   |
+|Tue   |4pm     |Mudd 3534 | Henry     |
+|Wed   |9:30am  |Mudd 3534 | Anna      |
+|Wed   |2pm     |Mudd 3532 | Andre     |
+|Wed   |4pm     |Tech LG72 | Henry     |
+|Wed   |6:30pm  | _[**Zoom Link**](https://northwestern.zoom.us/j/95156556095)_| Amy     |
