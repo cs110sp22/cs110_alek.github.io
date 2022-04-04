@@ -6,9 +6,9 @@ permalink: /cal/
 
 # Office Hours
 
-- Madhav available by appointment.
 - If the office hours do not work for you, let us know.
-- Office Hours 1 hour long.
+- Madhav available by appointment (email madhav@u.northwestern.edu).
+- Office Hours are one hour long, unless otherwise noted.
 
 |Day|Time| Location|Instructor| 
 |---|----|---------|----------|
