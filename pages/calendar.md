@@ -4,8 +4,10 @@ title: Office Hours & Tutorial Times
 permalink: /times-locations/
 ---
 
-## All office hours are 1 hour long unless noted otherwise
 # Office Hours
+
+## All office hours are 1 hour long unless noted otherwise
+
 | Day  | Time| PM            | Location  | 
 |------|-----|---------------|-----------|
 |Monday| 10am|Anna Xiao      |Mudd 3532  |
