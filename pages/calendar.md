@@ -28,6 +28,8 @@ permalink: /cal/
 
 # Tutorials
 
+[Tutorial Sign Up Sheet](https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit#gid=0)
+
 |Day|Time|Location|Instructor|
 |---|----|--------|----------|
 |Mon|1pm|Tech L170|Madhav|
