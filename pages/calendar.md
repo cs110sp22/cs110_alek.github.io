@@ -6,7 +6,9 @@ permalink: /cal/
 
 # Office Hours
 
-## All office hours are 1 hour long unless noted otherwise
+- Madhav available by appointment.
+- If the office hours do not work for you, let us know.
+- Office Hours 1 hour long.
 
 |Day|Time| Location|Instructor| 
 |---|----|---------|----------|
