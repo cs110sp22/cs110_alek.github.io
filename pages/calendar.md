@@ -8,7 +8,7 @@ permalink: /times-locations/
 
 ## All office hours are 1 hour long unless noted otherwise
 
-| Day  | Time| Intructor     | Location  | 
+| Day  | Time| Location      | Instructor| 
 |------|-----|---------------|-----------|
 |Mon| 10am|Mudd 3532  |Anna Xiao      |
 |Mon| 11am|Tech M349  |Amy Chen       |
