@@ -8,18 +8,24 @@ permalink: /times-locations/
 
 ## All office hours are 1 hour long unless noted otherwise
 
-| Day  | Time| PM            | Location  | 
+| Day  | Time| Intructor     | Location  | 
 |------|-----|---------------|-----------|
-|Monday| 10am|Anna Xiao      |Mudd 3532  |
-|Monday| 11am|Amy Chen       |Tech M349  |
-|Monday| 1pm |Andre Tsai     |Tech EG 20 |
-|Monday| 3pm |Griffin Minster| _[Zoom](https://northwestern.zoom.us/j/93511677678)_|
-|Tuesday| 1pm  |Iphengenie Bera| Tech LG62|
-|Wednesday| 3pm| Isaac Kim| Mudd 3532|
-|Wednesday |5:30pm |Amy Chen |Mudd 3532|
-|Thursday |11:30pm |Alexis Diaz-Waterman| Mudd 3532|
-|Thursday |12:30pm |Han Lee |Mudd 3534|
-|Thursday |1pm |Iphengenie Bera| Tech LG62|
-|Friday |4pm-6pm |Henry Pereira |Tech EG20|
-|Friday |5pm |Vaibhav Sancheti |Mudd 3532|
-|Saturday |2pm |Iphigenie Bera| Mudd 3532|
+|Mon| 10am|Mudd 3532  |Anna Xiao      |
+|Mon| 11am|Tech M349  |Amy Chen       |
+|Mon| 1pm |Tech EG 20 |Andre Tsai     |
+|Mon| 3pm | _[**Zoom Link**](https://northwestern.zoom.us/j/93511677678)_|Griffin Minster|
+|Tue| 1pm  | Tech LG62|Iphengenie Bera|
+|Wed| 3pm|  Mudd 3532|Isaac Kim|
+|Wed |5:30pm |Mudd 3532|Amy Chen |
+|Thu |11:30am | Mudd 3532|Alexis Diaz-Waterman|
+|Thu |12:30pm |Mudd 3534|Han Lee |
+|Thu |1pm | Tech LG62|Iphengenie Bera|
+|Fri |4pm-6pm |Tech EG20|Henry Pereira |
+|Fri |5pm |Mudd 3532|Vaibhav Sancheti |
+|Sat |2pm | Mudd 3532|Iphigenie Bera|
+
+# Tutorials
+
+|Day   |Time|Location|Instructor|
+|------|----|--------|----------|
+
