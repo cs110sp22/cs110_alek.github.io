@@ -15,7 +15,7 @@ permalink: /cal/
 |Mon|10am|Mudd 3532|Anna Xiao|
 |Mon|11am|Tech M349|Amy Chen|
 |Mon|1pm|Tech EG 20|Andre Tsai|
-|Mon|3pm|_[**Zoom Link**](https://northwestern.zoom.us/j/93511677678)_|Griffin Minster|
+|Mon|3pm|_[**ZOOM LINK**](https://northwestern.zoom.us/j/93511677678)_|Griffin Minster|
 |Tue|1pm|Tech LG62|Iphengenie Bera|
 |Wed|3pm|Mudd 3532|Isaac Kim|
 |Wed|5:30pm|Mudd 3532|Amy Chen|
@@ -28,7 +28,7 @@ permalink: /cal/
 
 # Tutorials
 
-[Tutorial Sign Up Sheet](https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit#gid=0)
+[**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit#gid=0)
 
 |Day|Time|Location|Instructor|
 |---|----|--------|----------|
@@ -45,4 +45,4 @@ permalink: /cal/
 |Wed|9:30am|Mudd 3534|Anna|
 |Wed|2pm|Mudd 3532|Andre|
 |Wed|4pm|Tech LG72|Henry|
-|Wed|6:30pm| _[**Zoom Link**](https://northwestern.zoom.us/j/95156556095)_| Amy     |
+|Wed|6:30pm| _[**ZOOM LINK**](https://northwestern.zoom.us/j/95156556095)_| Amy     |
