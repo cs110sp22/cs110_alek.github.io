@@ -19,10 +19,10 @@ videos:
   - url: https://drive.google.com/file/d/14AhV1MKXal-QcaONaxS7iFkTj3kU_2S-/view?usp=sharing 
     title: "Expressions & Intro to Functions"
     duration: "21:19"
-  - url: https://drive.google.com/file/d/13eZgK2XOjo82kDnt9Nwje8D2NALgFJAb/view?usp=sharin://drive.google.com/file/d/1CgGVw0MCJ1aKg1M6DjOIxxa34rxFBVLZ/view?usp=sharing 
+  - url:https://drive.google.com/file/d/1CgGVw0MCJ1aKg1M6DjOIxxa34rxFBVLZ/view?usp=sharing 
     title: "More Function Rules"
     duration: "22:46"
-  - url: https://drive.google.com/file/d/1s9asPDSoPce4_Vb_7dTO4U3GgoADxV25/view?usp=sharin://drive.google.com/file/d/1_XLM_9t3f_pS6jn4Q9WhOWP6RdJ-V_Vx/view?usp=sharing 
+  - url: https://drive.google.com/file/d/1_XLM_9t3f_pS6jn4Q9WhOWP6RdJ-V_Vx/view?usp=sharing
     title: "Built-In Functions Demo"
     duration: "10:11"
         
