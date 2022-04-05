@@ -23,7 +23,7 @@ permalink: /cal/
 |Thu|12:30pm|Mudd 3534|Han Lee|
 |Thu|1pm|Tech LG62|Iphengenie Bera|
 |Fri|4pm-6pm|Tech EG20|Henry Pereira|
-|Fri|5pm|_[**ZOOM LINK**]()_|Vaibhav Sancheti|
+|Fri|5pm|(_[**ZOOM LINK**](https://northwestern.zoom.us/j/95399738499)_)|Vaibhav Sancheti|
 |Sat|2pm|Mudd 3532|Iphigenie Bera|
 
 # Tutorials
