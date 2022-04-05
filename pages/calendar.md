@@ -34,6 +34,7 @@ permalink: /cal/
 |---|----|--------|----------|
 |Mon|1pm|Tech L170|Madhav|
 |Mon|2pm|Mudd 3532|Iphigenie|
+|Mon|2pm|Tech L160|Madhav|
 |Mon|3pm|Tech EG20|Isaac|
 |Mon|3pm|Tech M120|Madhav|
 |Mon|4pm|Tech L160|Madhav|
