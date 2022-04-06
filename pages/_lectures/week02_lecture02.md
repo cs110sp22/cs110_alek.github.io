@@ -6,7 +6,7 @@ num: 3
 show_schedule: 1
 include_page: "extras/command_line.md"
 draft: 0
-quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140102
+quiz_url: https://canvas.northwestern.edu/courses/163402/quizzes/176128
 description:
     - Intro to the command line
     - Lists and tuples (sequences)
