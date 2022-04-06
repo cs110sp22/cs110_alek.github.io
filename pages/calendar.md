@@ -44,6 +44,6 @@ permalink: /cal/
 |Tue|3pm|Mudd 3532|Griffin|
 |Tue|4pm|Mudd 3534|Henry|
 |Wed|9:30am|Mudd 3534|Anna|
-|Wed|2pm|Mudd 3532|Andre|
+|Wed|2pm|Tech M164|Andre|
 |Wed|4pm|Tech LG72|Henry|
 |Wed|6:30pm|(_[**ZOOM LINK**](https://northwestern.zoom.us/j/95156556095)_)| Amy     |
