@@ -41,9 +41,6 @@ videos:
      title: Practice with the command line, lists, and tuples
      duration: |
      1:21:09
-             
-
-        
 readings:
   - title: "Ch9: Lists"
     author: "Severance"
