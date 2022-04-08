@@ -36,6 +36,11 @@ videos:
   - url: https://drive.google.com/file/d/1Stf1NvgLuQLFijOMOuhjx1eG-ZgxLA1j/view?usp=sharing
     title: "Lists & Tuples"
     duration: "13:14"
+  - url: https://drive.google.com/file/d/14L6NSE8zdhN2c69jY-Zgr8ot1dGDMsX7/view?usp=sharing
+    live: 1
+    title: Practice with the command line, lists, and tuples
+    duration: |
+        1:21:09
         
 readings:
   - title: "Ch9: Lists"
