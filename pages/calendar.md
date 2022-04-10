@@ -41,7 +41,7 @@ permalink: /cal/
 |Mon|5pm|Mudd 3532|Vaibhav|
 |Tue|11:30am|Mudd 3532|Alexis|
 |Tue|12:30pm|Mudd 3532|Han|
-|Tue|3pm|Mudd 3532|Griffin|
+|Tue|3pm|Tech MG51|Griffin|
 |Tue|4pm|Mudd 3534|Henry|
 |Wed|9:30am|Mudd 3534|Anna|
 |Wed|2pm|Tech M164|Andre|
