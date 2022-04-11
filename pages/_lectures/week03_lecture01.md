@@ -10,27 +10,27 @@ description:
 due_date: 2022-04-14
 quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140094
 slides:
-  - url: https://drive.google.com/file/d/1i2NliHXCXOGkVfGJguMq3bMvWY4Bmrgf/view?usp=sharing
+  - url:https://docs.google.com/presentation/d/1OedEaZl_5ydgWFxjzSoKyXJ7RUdIuWnx/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: "Creating your own functions"
-  - url: https://drive.google.com/file/d/17vaY3nYAiW9Y95Nr91Zrpf_mwsOAFoz3/view?usp=sharing
+  - url: https://docs.google.com/presentation/d/1dWDvBleey0F8cFCCU2XHhfJx1Vflx4DP/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: Supplementary Slides for Live Lecture
 videos:
-  - url: https://drive.google.com/file/d/1RcLTw6FYpvlIFbYo8zZYceeiBtU44dZJ/view?usp=sharing
+  - url: https://drive.google.com/file/d/1Gj1BOr0GR5pleT7XP7sRKVqpwj-igTFH/view?usp=sharing
     title: "Built-in functions review"
     duration: "27:49"
-  - url: https://drive.google.com/file/d/1tB0xBxYw7IVzPItRuWYuSDiGmWp_cY_p/view?usp=sharing
+  - url: https://drive.google.com/file/d/11hKaj1pMpbXiVqCWxVkRpHcr6eSpOP-m/view?usp=sharing
     title: "The rules for defining functions"
     duration: "14:12"
-  - url: https://drive.google.com/file/d/1uCBM0fBrYQqH9vkEk3lUlXZa3_R5j8yK/view?usp=sharing
+  - url: https://drive.google.com/file/d/1uTspwyToikIh-5qDOfXmvjaFx8WTkODb/view?usp=sharing
     title: "Creating your first function"
     duration: "14:33"
-  - url: https://drive.google.com/file/d/1UBeEmbOg_lx-XzozqMbMJJMBnWpSpz8P/view?usp=sharing
+  - url: https://drive.google.com/file/d/1aswMsvSa2TRoyL_pvai3hkSBcJC_BHNG/view?usp=sharing
     title: "Creating your second function"
     duration: "13:59"
-  - url: https://drive.google.com/file/d/1hLgonzJvoyUR11gEgYDBWg5LkTOpB5O4/view?usp=sharing
+  - url: https://drive.google.com/file/d/1RHIeFhWG_Z8dBBR_zBbQJ9m6oFjhoDAa/view?usp=sharing
     title: "Creating your third function"
     duration: "8:57"
-  - url: https://drive.google.com/file/d/153bpiQW3jQejnatkOa4mwSZcYfFwoQu0/view?usp=sharing
+  - url: https://drive.google.com/file/d/1ug1QkpL1dKb7phNqJMMeVaLwkvTxdbOO/view?usp=sharing
     title: "Terminology and documentation"
     duration: "22:30"
   - url: https://drive.google.com/file/d/1lcJ_afugxsElhw2AP8ml4heGxAaTuzcF/view?usp=sharing
