@@ -10,7 +10,7 @@ description:
 due_date: 2022-04-14
 quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140094
 slides:
-  - url:https://docs.google.com/presentation/d/1OedEaZl_5ydgWFxjzSoKyXJ7RUdIuWnx/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
+  - url: https://docs.google.com/presentation/d/1OedEaZl_5ydgWFxjzSoKyXJ7RUdIuWnx/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: "Creating your own functions"
   - url: https://docs.google.com/presentation/d/1dWDvBleey0F8cFCCU2XHhfJx1Vflx4DP/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: Supplementary Slides for Live Lecture
