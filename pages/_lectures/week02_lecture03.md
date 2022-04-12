@@ -11,8 +11,10 @@ description:
     - Parameters and arguments
 due_date: 2022-04-12
 slides:
+  - url: https://docs.google.com/presentation/d/1lDUaOT4IDrCRfcTNatJMbTGUGX1qN8nsf9LgaQE9FNQ/edit#slide=id.g121b91b6421_0_72
+    title: "{New} Intro to Functions"
   - url:  https://docs.google.com/presentation/d/1ZAIOn7dIpM_Afq_KSAvyb4M0WHJDYkXr/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
-    title: "Intro to Functions"
+    title: "{Old} Intro to Functions"
   - url: https://docs.google.com/presentation/d/1_QoAa_gzibOgoElRr4-_xh9ZJzd3tlde/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: Supplementary Slides for Live Lecture
 videos: 
