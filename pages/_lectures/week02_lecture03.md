@@ -27,7 +27,7 @@ videos:
   - url: https://drive.google.com/file/d/1_XLM_9t3f_pS6jn4Q9WhOWP6RdJ-V_Vx/view?usp=sharing
     title: "Built-In Functions Demo"
     duration: "10:11"
-  - url: https://drive.google.com/file/d/15j6ZIWmWtLQwq5UxjbLpLkm5HeKafFt7/view?usp=sharing
+  - url: https://drive.google.com/file/d/1el7zqsB5MZ5ZVtFNMHWYU75o3IJ5eeM7/view?usp=sharing
     live: 1
     title: Practice calling functions
     duration: |
