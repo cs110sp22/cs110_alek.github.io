@@ -14,7 +14,7 @@ permalink: /cal/
 |---|----|---------|----------|
 |Mon|9:30am|Mudd 3532|Anna Xiao|
 |Mon|11am|Tech M349|Amy Chen|
-|Mon|1pm|Tech EG 20|Andre Tsai|
+|Mon|1pm|(_[**ZOOM LINK**](https://northwestern.zoom.us/j/96738226510)_)|Andre Tsai|
 |Mon|3pm|(_[**ZOOM LINK**](https://northwestern.zoom.us/j/93511677678)_)|Griffin Minster|
 |Tue|1pm|Tech LG62|Iphengenie Bera|
 |Wed|3pm|Mudd 3532|Isaac Kim|
