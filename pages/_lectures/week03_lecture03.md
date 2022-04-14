@@ -10,21 +10,21 @@ description:
     - Creating modules
     - Global and local variables
 slides:
-  - url: https://drive.google.com/file/d/1LxU696dblnlNeGAOE8pJMneQim4qzxuw/view?usp=sharing
+  - url: https://docs.google.com/presentation/d/15i9-pSJt1TiEPkLm9i_JFsh32CuFiBXl/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: "Modules"
-  - url: https://drive.google.com/file/d/14x2SYcje8wVDZ-aE3TKTtaVVy1YPYwVi/view?usp=sharing
+  - url: https://docs.google.com/presentation/d/1rfKlrdXhbvoKYX3V5E2qW5Qo2dOcuz3s/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: "Variable Scope"
-  - url: https://drive.google.com/file/d/1i8ihd59a13j7H9C-jcG2RULmLfLN91j5/view?usp=sharing
+  - url: https://docs.google.com/presentation/d/1MoUBR3koDvYVh4ts0o0WXLBMZ-yI49hV/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
-     url: https://drive.google.com/file/d/1CX1ZJYTSt4KEIeg8dgeu3GnJMJGVYOR3/view?usp=sharing
+     url: https://drive.google.com/file/d/1rfpIdHEWjpxaeABnIpX3pZtSD0GJk_ZZ/view?usp=sharing
      duration: "26:34"
    - title: "Variable Scope"
-     url: https://drive.google.com/file/d/1sV_vwdDNo0t-78BzPUWbQycH6rnaUu_Y/view?usp=sharing
+     url: https://drive.google.com/file/d/1H8nsewRr3ddmz6ChH7xdAbRTKXEC7aT2/view?usp=sharing
      duration: "17:39"
    - title: "More functions / modules practice"
-     url: https://drive.google.com/file/d/12s7fzc9h33-nSaeqLU9ikFjT7bWvAa5i/view?usp=sharing
+     url: https://drive.google.com/file/d/1hkZOq8mmck2tJx3f4VTs0n1Ya72LpFA-/view?usp=sharing
      duration: ""
      live: 1
 
