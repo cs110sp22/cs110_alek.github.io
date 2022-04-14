@@ -33,7 +33,7 @@ videos:
   - url: https://drive.google.com/file/d/1ug1QkpL1dKb7phNqJMMeVaLwkvTxdbOO/view?usp=sharing
     title: "Terminology and documentation"
     duration: "22:30"
-  - url: https://drive.google.com/file/d/1lcJ_afugxsElhw2AP8ml4heGxAaTuzcF/view?usp=sharing
+  - url: https://drive.google.com/file/d/18QUSVOVHwaM9dz30vDNmugDSltTsPgD2/view?usp=sharing
     live: 1
     title: Practice writing functions
     duration: |
