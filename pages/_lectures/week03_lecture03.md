@@ -5,7 +5,7 @@ type: lecture
 num: 6
 draft: 0
 due_date: 2022-04-19
-quiz_url: https://canvas.northwestern.edu/courses/137481/quizzes/140092
+quiz_url: https://canvas.northwestern.edu/courses/163402/quizzes/176141
 description:
     - Creating modules
     - Global and local variables
