@@ -23,10 +23,10 @@ videos:
    - title: "Variable Scope"
      url: https://drive.google.com/file/d/1H8nsewRr3ddmz6ChH7xdAbRTKXEC7aT2/view?usp=sharing
      duration: "17:39"
-   - title: "More functions / modules practice"
-     url: https://drive.google.com/file/d/1hkZOq8mmck2tJx3f4VTs0n1Ya72LpFA-/view?usp=sharing
-     duration: ""
-     live: 1
+#   - title: "More functions / modules practice"
+#     url: https://drive.google.com/file/d/1hkZOq8mmck2tJx3f4VTs0n1Ya72LpFA-/view?usp=sharing
+#     duration: ""
+#     live: 1
 
 exercise_url: "lecture06.zip"
 readings:
