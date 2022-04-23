@@ -11,9 +11,9 @@ num: 9
 due_date: 2022-04-28
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
-     url: https://drive.google.com/file/d/1MGiBsoDvwmAIejdTCDv-6IChDS3D2Lip/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1ze0rC2P5IKMNoJwaw6rNL0AyFa0xC4Hj/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
    - title: "Supplementary Slides for Live Lecture"
-     url: https://drive.google.com/file/d/1v8hpnea6yX0Izy5XUgQ4U4DeCOTo1Pac/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1yzw3PSaiU_0XUsjXnI4v34SQ5byr6UpQ/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 readings:
   - title: "Ch5: Iteration"
     author: "Severance"
@@ -24,21 +24,21 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/iteration.html
 videos:
    - title: "Introduction to loops"
-     url: https://drive.google.com/file/d/1F2qOnAvnNFx_T6NS0A5AGB9t53nDuy1d/view?usp=sharing
+     url: https://drive.google.com/file/d/1Dzk_pYAxr0MQL15tPoFilkmJblPMfOiq/view?usp=sharing
      duration: "11:59"
    - title: "While loops example"
-     url: https://drive.google.com/file/d/1CP63_psIbPMrVQBcj535vJggX82pD7o5/view?usp=sharing
+     url: https://drive.google.com/file/d/1YNNus8o5UYsgZ6f2gzrgD3jN267J9yWW/view?usp=sharing
      duration: "16:43"
    - title: "Loops & Lists"
-     url: https://drive.google.com/file/d/1bqpFCGjEAQ70BULGYaxIzwRMwXTHBBxF/view?usp=sharing
+     url: https://drive.google.com/file/d/1ijYIRb3iDpTTcl0v0DHdg0moczamzYqN/view?usp=sharing
      duration: "18:19"
-   - title: "Practice with logical and comparison operators; while loops"
-     url: https://drive.google.com/file/d/1fv_YTPEn-ofrf7RO_T4zXIMcaMFe1HhL/view?usp=sharing
-     duration: ""
-     live: 1
+#   - title: "Practice with logical and comparison operators; while loops"
+#     url: https://drive.google.com/file/d/1fv_YTPEn-ofrf7RO_T4zXIMcaMFe1HhL/view?usp=sharing
+#     duration: ""
+#     live: 1
 
 exercise_url: "lecture09.zip"
 ---
 
-<img class="module-image" src="/spring2022/assets/images/lectures/loops.gif" /> In this lesson, we’re going to go over while loops -- a way of allowing your program to repeat code for a specified number of iterations. Being able to repeat code blocks (also know as "looping" or "iterating") is very powerful, and will allow you to easily perform repetitive tasks in a variety of different contexts: playing songs, drawing pictures, building animations, doing data processing, and so forth. I also highly recommend that you read Chapter 5 in the Severance (Python for Everyone), for additional review.
+<img class="module-image" src="/assets/images/lectures/loops.gif" /> In this lesson, we’re going to go over while loops -- a way of allowing your program to repeat code for a specified number of iterations. Being able to repeat code blocks (also know as "looping" or "iterating") is very powerful, and will allow you to easily perform repetitive tasks in a variety of different contexts: playing songs, drawing pictures, building animations, doing data processing, and so forth. I also highly recommend that you read Chapter 5 in the Severance (Python for Everyone), for additional review.
 
