@@ -10,9 +10,9 @@ description:
 due_date: 2022-04-26
 slides: 
    - title: "Conditionals & Boolean Logic"
-     url: "https://drive.google.com/file/d/1ptXOMXkiDAqi7PhmOiAswl35UUPSPlV0/view?usp=sharing"
+     url: https://docs.google.com/presentation/d/1RRIHwCuNLg8gREj4C48Cf1iLhSYuLljT/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
    - title: "Supplementary Slides for Live Lecture"
-     url: "https://drive.google.com/file/d/1mRyah994eN_iIxXsloHolFbcMySBhYyK/view?usp=sharing"
+     url: https://docs.google.com/presentation/d/1QT1A2s_1kULMMP0wPHyvIdf3pxWQ6WHo/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 readings:
   - title: "Ch3: Conditionals"
     author: "Severance"
