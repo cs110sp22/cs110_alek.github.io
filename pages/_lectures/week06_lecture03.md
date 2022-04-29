@@ -11,27 +11,27 @@ num: 11
 due_date: 2022-05-05
 slides: 
    - title: "Handling User Input & Event Handlers"
-     url: https://drive.google.com/file/d/1LUjIhJKZd4wk2N0ngcHRu_7slrvcCg1y/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1aJFslj5__ECTGABtJ3TGpTJGUMa45f7p/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
    - title: "Supplementary Slides for Live Lecture"
-     url: https://drive.google.com/file/d/1NQuRS203_ZpoDj3U2m5fR1CNV5tuwYJj/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1wS6lL1OEJrHRxC-78A_Cp_-17Oi1rUC3/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 exercise_url: "lecture11.zip"
 videos:
    - title: "Intro to the Project"
-     url: https://drive.google.com/file/d/1AXdNpnRHnkTOSsuvLrlxNTyBZoqPZxNE/view?usp=sharing
+     url: https://drive.google.com/file/d/19QFRNBOQhmEqWLeYF_ivS1jMuSl62Ea7/view?usp=sharing
      duration: "8:18"
    - title: "Intro to Events"
-     url: https://drive.google.com/file/d/1trF5rA_m_4MfDSsxH7K1Xyv6EIwNOwgl/view?usp=sharing
+     url: https://drive.google.com/file/d/1nklwFFQlaPIYjaT1uidL3BW68nSAPP9m/view?usp=sharing
      duration: "12:25"
    - title: "The click event"
      url: https://drive.google.com/file/d/1YhcsWw4BEvlYb43ZbdxHoBhhzkCM7Z8_/view?usp=sharing
      duration: "17:45"
    - title: "Other Events"
-     url: https://drive.google.com/file/d/1cHr8L4eDmxWMaW76dip0sosYICVXhrAz/view?usp=sharing
+     url: https://drive.google.com/file/d/1e2HVrQs3gDlGo7vgioreZq0oKfj3_9Xl/view?usp=sharing
      duration: "11:46"
-   - title: "Practice w/loops and animation"
-     url: https://drive.google.com/file/d/19TgvyiHpKYi1RlsIaNjmiHSL25PKVdDh/view?usp=sharing
-     live: 1
-     duration: ""
+#   - title: "Practice w/loops and animation"
+#     url: https://drive.google.com/file/d/19TgvyiHpKYi1RlsIaNjmiHSL25PKVdDh/view?usp=sharing
+#     live: 1
+#     duration: ""
 
      
 ---
