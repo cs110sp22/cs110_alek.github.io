@@ -10,26 +10,26 @@ num: 10
 due_date: 2022-05-03
 slides: 
    - title: "More Loops: For Loops & Lists"
-     url: https://drive.google.com/file/d/1t5e_tiJFVC17fYttoew7zZEsS5fX3v8R/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1hp5W6rn495Sw6L8NHd9JOubsWByIUHom/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
    - title: "Supplementary Slides for Live Lecture"
-     url: https://drive.google.com/file/d/1Sc95sbrCd62w_C7XTCDY-nG1-eJZ2x9_/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1YHYDxqeqrhMnQzaTz96vMKUvxM-UdjwW/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 videos:
    - title: "Intro to for loops"
-     url: https://drive.google.com/file/d/1oTM0vKk7Gk8afVr8IbUrUpq0YtbZJ3TV/view?usp=sharing
+     url: https://drive.google.com/file/d/141ajnYEZiTazwQV7Mh283PyRoijxhT_o/view?usp=sharing
      duration: "10:56"
    - title: "Break and continue"
-     url: https://drive.google.com/file/d/1K7zC63PFnl1Z4sip3QYZU2iCRPnMAUHO/view?usp=sharing
+     url: https://drive.google.com/file/d/1oZ0jZMQ1uH-geXrUR1Dbw-waK8Oxwgl2/view?usp=sharing
      duration: "10:07"
    - title: "The range function"
-     url: https://drive.google.com/file/d/1_jm1RXDzxJSN8YsFba1vaU_idXg2DNnJ/view?usp=sharing
+     url: https://drive.google.com/file/d/1d2RJmmFy6UvwjGKCqfIk9bVaQ3l16HqD/view?usp=sharing
      duration: "11:16"
    - title: "Looping algorithms"
-     url: https://drive.google.com/file/d/19AvzdPqLDTHt-vGZdNWx-f29cQCwFEkK/view?usp=sharing
+     url: https://drive.google.com/file/d/1hpUkf1Oyc2cZqGdQgQMTKlFtGKdT_IlR/view?usp=sharing
      duration: "15:52"
-   - title: "Practice w/ looping algorithms"
-     url: https://drive.google.com/file/d/1gmzrYvvcRVTbQKvn_JBKMY3sUiEx3cGk/view?usp=sharing
-     duration: ""
-     live: 1
+#   - title: "Practice w/ looping algorithms"
+#     url: https://drive.google.com/file/d/1gmzrYvvcRVTbQKvn_JBKMY3sUiEx3cGk/view?usp=sharing
+#     duration: ""
+#     live: 1
      
 quiz_url: "https://canvas.northwestern.edu/courses/137481/quizzes/140098"
 exercise_url: "lecture10.zip"
