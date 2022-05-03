@@ -31,7 +31,7 @@ videos:
 #     duration: ""
 #     live: 1
      
-quiz_url: "https://canvas.northwestern.edu/courses/137481/quizzes/140098"
+#quiz_url: "https://canvas.northwestern.edu/courses/137481/quizzes/140098"
 exercise_url: "lecture10.zip"
 ---
 
