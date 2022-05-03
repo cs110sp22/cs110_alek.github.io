@@ -23,7 +23,7 @@ videos:
      url: https://drive.google.com/file/d/1nklwFFQlaPIYjaT1uidL3BW68nSAPP9m/view?usp=sharing
      duration: "12:25"
    - title: "The click event"
-     url: https://drive.google.com/file/d/1YhcsWw4BEvlYb43ZbdxHoBhhzkCM7Z8_/view?usp=sharing
+     url: https://drive.google.com/file/d/1_RIaJJoQxjznMhapNStPMyBxueJtOoDN/view?usp=drivesdk 
      duration: "17:45"
    - title: "Other Events"
      url: https://drive.google.com/file/d/1e2HVrQs3gDlGo7vgioreZq0oKfj3_9Xl/view?usp=sharing
