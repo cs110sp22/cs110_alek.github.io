@@ -15,7 +15,7 @@ Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/1
 
 ## Study Materials
 ### Review Sessions
-* Sunday 5/8/22 (Time and Place TBD)
+* Sunday 5/8/22, 5pm, Tech M152 
 * Monday 5/9/22 (Time and Place TBD)
 ### Review Documents
 * We will post review videos by 5/6/22
