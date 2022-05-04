@@ -14,7 +14,11 @@ Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/1
 
 
 ## Study Materials
+### Review Sessions
+* Sunday 5/8/22 (Time and Place TBD)
+* Monday 5/9/22 (Time and Place TBD)
 ### Review Documents
+* We will post review videos by 5/6/22
 * <a href="https://docs.google.com/document/d/14QOlTCOFKq3ymtfCoq6uCbp_Z9pp_yDCNbROnF23xf0/edit?usp=sharing" target="_blank">Study Guide</a>
 * Please do the <a href="https://canvas.northwestern.edu/courses/137481/quizzes" target="_blank">practice mini-quizzes</a>
 
@@ -25,9 +29,6 @@ Start early. You can take the quiz as many times as you want to practice.
 
 ### How to Take The Actual Quiz
 
-There will be two windows for the quiz:
 
-1. **Option 1:** Monday 5/10/2022 at 9pm CST(intended to accommodate Asian time zones).
-2. **Option 2:** Tuesday 5/11/2022 at 9:30am CST, during regularly scheduled class time.
+1.  Tuesday 5/11/2022 at 9:30am CST, during regularly scheduled class time.
 
-Anyone is welcome to take the quiz either on Monday or Tuesday, regardless of where you live in the world.
