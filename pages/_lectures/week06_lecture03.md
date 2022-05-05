@@ -28,10 +28,10 @@ videos:
    - title: "Other Events"
      url: https://drive.google.com/file/d/1e2HVrQs3gDlGo7vgioreZq0oKfj3_9Xl/view?usp=sharing
      duration: "11:46"
-#   - title: "Practice w/loops and animation"
-#     url: https://drive.google.com/file/d/19TgvyiHpKYi1RlsIaNjmiHSL25PKVdDh/view?usp=sharing
-#     live: 1
-#     duration: ""
+   - title: "Practice w/loops and animation"
+     url: https://drive.google.com/file/d/1-vMceFMO-ZLYepN8zLVunTuH0-4lQCi9/view?usp=drivesdk
+     live: 1
+     duration: ""
 
      
 ---
