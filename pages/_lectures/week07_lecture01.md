@@ -19,6 +19,7 @@ Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/1
 * Monday 5/9/22, 5:30pm, Tech M164 
 ### Review Documents
 * <a href="https://users.cs.northwestern.edu/~mas384/cs110/quiz2">Programming Problem Video</a>
+* <a href="course-files/quiz2_review.pdf">Henry's Amazing Practice Problems</a>
 * <a href="https://docs.google.com/document/d/14QOlTCOFKq3ymtfCoq6uCbp_Z9pp_yDCNbROnF23xf0/edit?usp=sharing" target="_blank">Study Guide</a>
 * Please do the <a href="https://canvas.northwestern.edu/courses/137481/quizzes" target="_blank">practice mini-quizzes</a>
 
