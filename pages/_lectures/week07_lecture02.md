@@ -24,18 +24,18 @@ readings:
     video_url: https://www.py4e.com/lessons/files
 videos:
    - title: "String & List Functions"
-     url: https://drive.google.com/file/d/10L4CIM0d8G_JaKukF789kCv4HuglRAjp/view?usp=sharing
+     url: https://drive.google.com/file/d/1mYqc4nNnf2VP4R4nhq8CJpb0mTNo2rn9/view?usp=drivesdk
      duration: "13:42"
    - title: "Reading & Writing Files"
-     url: https://drive.google.com/file/d/1BGbsXvSwFy0DdQQ-VOTBTI0v649JwGhR/view?usp=sharing
+     url: https://drive.google.com/file/d/1FS5vJrzf5ybj_d7TLrPWW_ELREtfwNKX/view?usp=drivesdk
      duration: "11:12"
    - title: "Some Example Programs"
-     url: https://drive.google.com/file/d/1IKkLycRAN4-cQs3qX-emjsPPmgKrbo4F/view?usp=sharing
+     url: https://drive.google.com/file/d/1NdxIEpafm2ATeaL_qn6odwG0jFAarxPn/view?usp=drivesdk
      duration: "6:37"
    - title: "Practice working with files and string functions"
-     url: https://drive.google.com/file/d/14EPBF2S2LJC0hKZox0lRzJp9hQWvefwj/view?usp=sharing
-     duration: ""
-     live: 1
+#     url: https://drive.google.com/file/d/14EPBF2S2LJC0hKZox0lRzJp9hQWvefwj/view?usp=sharing
+#     duration: ""
+#     live: 1
 
 
 
