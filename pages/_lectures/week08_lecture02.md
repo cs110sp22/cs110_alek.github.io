@@ -15,27 +15,27 @@ readings:
     video_url: https://www.py4e.com/lessons/dictionary
 slides: 
    - title: "Dictionaries"
-     url: https://drive.google.com/file/d/1IqFahHzdJCz9SeFuucVZwuLMSDL2EMg6/view?usp=sharing
+     url: https://docs.google.com/file/d/1J5njeQP-G6hAyVRESuwbeolOBmYLsXp6/edit?usp=docslist_api&filetype=mspresentation
    - title: "Supplementary Slides for Live Lecture"
-     url: https://drive.google.com/file/d/1MY-B7hydzdehGXujGuPCah96lTlq6gR4/view?usp=sharing
+     url: https://docs.google.com/file/d/1ilOSK_SVvV518n-CC1mkcmPJFv2FWybB/edit?usp=docslist_api&filetype=mspresentation
 
 videos:
    - title: "Dictionary syntax / functionality"
-     url: https://drive.google.com/file/d/1_9LKm_7X3CvOEQ-XhtZrIZCvhBVyA9ac/view?usp=sharing
+     url: https://drive.google.com/file/d/1_LzbcROHk3xtb2OCfX_wldQJZE2CvQW2/view?usp=drivesdk
      duration: "17:20"
    - title: "Dictionaries as lookup tables"
-     url: https://drive.google.com/file/d/1yfpTYOJwluFTMGqFDViEVvsAmPyqmei8/view?usp=sharing
+     url: https://drive.google.com/file/d/1xET_-BSWs1AskAaXM5XyQNALzdESkWX-/view?usp=drivesdk
      duration: "15:05"
    - title: "Dictionaries as entity representations"
-     url: https://drive.google.com/file/d/1Qzc4bdxCzrpgLlcnoisLPSUUh1zZHwSA/view?usp=sharing
+     url: https://drive.google.com/file/d/1P9wRa_Isud1qUUz_rRMb1dYsOX0VzBoE/view?usp=drivesdk
      duration: "7:58"
    - title: "Lists of dictionaries (Twitter)"
-     url: https://drive.google.com/file/d/1eUpvWG5P-iEZNfq0i2lcJswPH56UueGk/view?usp=sharing
+     url: https://drive.google.com/file/d/1QcgeV7ZRyZubhWOuqI8tWMZWxGQK_1oK/view?usp=drivesdk
      duration: "14:45"
-   - title: "Practice with dictionaries"
-     url: https://drive.google.com/file/d/1xlsNzASt8pn8an4HMvzoC7cxd2Asr9FC/view?usp=sharing
-     duration: ""
-     live: 1
+#   - title: "Practice with dictionaries"
+#     url: https://drive.google.com/file/d/1xlsNzASt8pn8an4HMvzoC7cxd2Asr9FC/view?usp=sharing
+#     duration: ""
+#     live: 1
 
 exercise_url: "lecture14.zip"
 ---
