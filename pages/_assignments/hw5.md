@@ -6,7 +6,7 @@ type: homework
 files: course-files/assignments/hw05.zip
 due_date: 2022-05-27
 points: 8
-draft: 1
+draft: 0
 ---
 <style>
     .bash-small .highlighter-rouge {
@@ -16,7 +16,7 @@ draft: 1
     }
 </style>
 
-<a class="nu-button" href="/spring2022/course-files/homework/hw05.zip" target="_blank">
+<a class="nu-button" href="/course-files/homework/hw05.zip" target="_blank">
     Homework Starter Files <i class="fas fa-download"></i>
 </a> 
 
