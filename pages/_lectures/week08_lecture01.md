@@ -32,10 +32,10 @@ videos:
    - title: "Retrieving files via HTTP/HTTPS"
      url: https://drive.google.com/file/d/1gsQ_0XrIux8iCXwTxfLfCr6jdCZr7qjl/view?usp=drivesdk
      duration: "11:34"
-#   - title: "Practice try/except (and short web server diversion)"
-#     url: https://drive.google.com/file/d/1VagDy1WnJne_SrR2mq6rteWrViYJRo0f/view?usp=sharing
-#     duration: ""
-#     live: 1
+   - title: "Practice try/except (and short web server diversion)"
+     url: https://drive.google.com/file/d/1p8IZR7Axl5iXDdfS6tsT2Fn8DdTTAxzT/view?usp=drivesdk
+     duration: ""
+     live: 1
 exercise_url: "lecture13.zip"
 ---
 
