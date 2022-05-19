@@ -33,7 +33,7 @@ videos:
      url: https://drive.google.com/file/d/1QcgeV7ZRyZubhWOuqI8tWMZWxGQK_1oK/view?usp=drivesdk
      duration: "14:45"
    - title: "Practice with dictionaries"
-     url: https://drive.google.com/file/d/1p8IZR7Axl5iXDdfS6tsT2Fn8DdTTAxzT/view?usp=drivesdk
+     url: https://drive.google.com/file/d/1aOvzG8IZR8qLl1UTwgU5usYX3OUt8SpJ/view?usp=drivesdk
      duration: ""
      live: 1
 exercise_url: "lecture14.zip"
