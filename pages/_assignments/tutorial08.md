@@ -10,7 +10,7 @@ draft: 0
 num: 8
 points: 3
 due_date: 2022-05-25
-draft: 1
+draft: 0
 ---
 
 <style>
@@ -21,7 +21,7 @@ draft: 1
     }
 </style>
 
-<a class="nu-button" href="/spring2022/course-files/tutorials/tutorial08.zip" target="_blank">
+<a class="nu-button" href="/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
