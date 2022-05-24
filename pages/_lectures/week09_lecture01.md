@@ -19,7 +19,7 @@ slides:
 
 videos:
    - title: "Dictionaries"
-     url: https://drive.google.com/file/d/1v1vmKk8L8QTqkv986x1i0C9M1R2pnA37/view?usp=sharing
+     url: https://drive.google.com/file/d/1tETrdBelW_BCx8QM-8_EUKXsjlO3n4_U/view?usp=sharing
      duration: ""
      live: 1
 
