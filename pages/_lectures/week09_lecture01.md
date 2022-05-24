@@ -15,7 +15,7 @@ readings:
     video_url: https://www.py4e.com/lessons/dictionary
 slides: 
    - title: "Supplementary Slides for Live Lecture"
-     url: https://drive.google.com/file/d/1rA1ccM2YbsrbN9kYO7bVP4fHpATeYyPo/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1Iw-Sv8egdxay1Q8J6HV_1CPncFfZXxj-/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 
 videos:
    - title: "Dictionaries"
