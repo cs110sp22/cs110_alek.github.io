@@ -12,7 +12,7 @@ due_date: 2022-05-31
 exercise_url: "lecture17.zip"
 slides:
    - title: "Practice with Cloud-Based Services"
-     url: https://drive.google.com/file/d/1dqdEmay4wWCfNSNQet6D8u2LmXYCm4q6/view?usp=sharing
+     url: https://docs.google.com/presentation/d/1YZppVo7sXknhNfq1QQxLO6TAZM-GUfNr/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
 videos:
    - title: "Configuring P2 and sending an email"
      url: https://drive.google.com/file/d/1uoJBnFOzHGnzUFIlmP5xGvhVo6uDt3wF/view?usp=sharing
