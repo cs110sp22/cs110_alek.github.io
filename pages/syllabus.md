@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Spring, 2022 |
+| **Term** | Spring, 2023 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
@@ -40,20 +40,15 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 We have 10 peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Han Lee (hanlee2024@u.northwestern.edu)
-* Iphigenie Bera (iphigeniebera2024@u.northwestern.edu)
-* Amy Chen (amychen2024@u.northwestern.edu)
-* Vaibhav Sancheti (vaibhavsancheti2022@u.northwestern.edu)
-* Griffin Minster (griffinminster2024@u.northwestern.edu)
-* Isaac Kim (isaackim2024@u.northwestern.edu)
-* Henry Pereira (henrypereira2022@u.northwestern.edu)
-* Alexis Diaz-Waterman (alexisdiaz-waterman2024@u.northwestern.edu)
-* Anna Xiao (annaxiao2024@u.northwestern.edu)
-* Andre Tsai (andretsai2024@u.northwestern.edu)
-
+* Kelly Meng (kellymeng2025@u.northwestern.edu)
+* Lisa Saltzberg (lisasaltzberg2025@u.northwestern.edu)
+* Lucy Joseph (lucyjoseph2024@u.northwestern.edu)
+* Maria Fernandez Davila Pastor (mariafernandezdavilapastor2024@u.northwestern.edu)
+* Sydney TerMolen (sydneytermolen2026@u.northwestern.edu)
+* Wendy Huang (wendyhuang2026@u.northwestern.edu)
 
 ### Graduate Teaching Assistant
-* Madhav Suresh (madhav@u.northwestern.edu)
+* Weijian Li (weijianli2021@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
