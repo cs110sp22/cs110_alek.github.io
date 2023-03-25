@@ -21,7 +21,7 @@ permalink: /cal/
 
 # Tutorials
 
-([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing)
+([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing))
 
 |Day|Time|Location|Instructor|
 |---|----|--------|----------|
