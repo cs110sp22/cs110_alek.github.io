@@ -11,7 +11,7 @@ permalink: /syllabus/
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
-| **Lecture Location** | Technological Institute Auditorium|
+| **Lecture Location** | Seabury Classroom 250|
 
 ## About the Course
 CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
