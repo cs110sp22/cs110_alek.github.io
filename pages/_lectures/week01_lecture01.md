@@ -24,11 +24,11 @@ videos:
 extras:
   - title: "Tutorial Signup"
     comments: "Sign up for a tutorial here!"
-    url: "https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit#gid=0"
+    url: "https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing"
     external: 1
   - title: "Course Questionnaire"
     comments: "Please complete the pre-course questionnaire by tonight (3/31)!"
-    url: "https://forms.gle/q1q3Pk1qn5Qwcth69"
+    url: "https://forms.gle/o2WPfG8ArnAkbru3A"
     external: 1
 ---
 
