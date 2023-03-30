@@ -7,7 +7,7 @@ num: 2
 show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
-due_date: 2022-04-05
+due_date: 2022-04-04
 slides:
   - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharin://docs.google.com/presentation/d/1FGs9ZGihXqyr2oWU1W64CWzTFCGYAQtw/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: The Building Blocks of Programming
