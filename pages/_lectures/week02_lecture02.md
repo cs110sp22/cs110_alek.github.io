@@ -17,25 +17,25 @@ slides:
   - url: https://drive.google.com/file/d/13w6d_cbnnOHK_WXmXq8pK_LbG7kd1y-I/view?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos: 
-  # - url: https://drive.google.com/file/d/1qts2R6w1DdVdXGcUlq-mQncQfgrNcP80/view?usp=sharing
-  #   duration: "6:57"
-  #   title: |
-  #     Intro
-  # - url: https://drive.google.com/file/d/19xbkGMWmUMBWIyHqHn8G54Ches8su6EV/view?usp=sharing
-  #   duration: "5:51"
-  #   title: |
-  #     Demo: Working with the Command Line
-  # - url: https://drive.google.com/file/d/17uiow23zjFocCpb1AsMUKKwUsXFaWDpG/view?usp=sharing
-  #   duration: "6:11"
-  #   title: |
-  #     Installing Python
-  # - url: https://drive.google.com/file/d/1duxSRv-qZQ9rtR-5HFEDFqZH1dr_oOLw/view?usp=sharing
-  #   duration: "7:07"
-  #   title: |
-  #     Demo: 3 Ways to Execute Python
-  # - url: https://drive.google.com/file/d/1Stf1NvgLuQLFijOMOuhjx1eG-ZgxLA1j/view?usp=sharing
-  #   title: "Lists & Tuples"
-  #   duration: "13:14"
+  - url: https://drive.google.com/file/d/1qts2R6w1DdVdXGcUlq-mQncQfgrNcP80/view?usp=sharing
+    duration: "6:57"
+    title: |
+      Intro
+  - url: https://drive.google.com/file/d/19xbkGMWmUMBWIyHqHn8G54Ches8su6EV/view?usp=sharing
+    duration: "5:51"
+    title: |
+      Demo: Working with the Command Line
+  - url: https://drive.google.com/file/d/17uiow23zjFocCpb1AsMUKKwUsXFaWDpG/view?usp=sharing
+    duration: "6:11"
+    title: |
+      Installing Python
+  - url: https://drive.google.com/file/d/1duxSRv-qZQ9rtR-5HFEDFqZH1dr_oOLw/view?usp=sharing
+    duration: "7:07"
+    title: |
+      Demo: 3 Ways to Execute Python
+  - url: https://drive.google.com/file/d/1Stf1NvgLuQLFijOMOuhjx1eG-ZgxLA1j/view?usp=sharing
+    title: "Lists & Tuples"
+    duration: "13:14"
   # - url: https://drive.google.com/file/d/1uEJ6l7DexcJFkGAr9H8zjNmOcnuuNP44/view?usp=sharing
   #   live: 1
   #   title: Practice with the command line, lists, and tuples

@@ -14,25 +14,25 @@ slides:
   - url: https://drive.google.com/file/d/1bP8SInoijPix9414fJNpQos_WzXRBNXY/view?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos:
-  #  - url: https://drive.google.com/file/d/1JwW-VlsGZvvz90ZUUZ5AANrzNgvDrbLL/view?usp=sharing
-  #    duration: |
-  #           14:20
+   - url: https://drive.google.com/file/d/1JwW-VlsGZvvz90ZUUZ5AANrzNgvDrbLL/view?usp=sharing
+     duration: |
+            14:20
         
-  #    title: Using the Lecture Files
-  #  - url: https://drive.google.com/file/d/1VIi2rUgne9npXH2VuXQRsKPPEQlVfLOT/view?usp=sharing
-  #    duration: |
-  #           22:16
+     title: Using the Lecture Files
+   - url: https://drive.google.com/file/d/1VIi2rUgne9npXH2VuXQRsKPPEQlVfLOT/view?usp=sharing
+     duration: |
+            22:16
         
-  #    title: Data Types & Variables
-  #  - url: https://drive.google.com/file/d/1csk59rXGM2g8sbtL9XEPvEhs_mQzBixc/view?usp=sharing
-  #    title: Operators
-  #    duration: |
-  #           14:42
+     title: Data Types & Variables
+   - url: https://drive.google.com/file/d/1csk59rXGM2g8sbtL9XEPvEhs_mQzBixc/view?usp=sharing
+     title: Operators
+     duration: |
+            14:42
         
-  #  - url: https://drive.google.com/file/d/1xAkHUGewIpKQgh7wxDAOw_IAYZVtWU1G/view?usp=sharing
-  #    title: Built-in Functions
-  #    duration: |
-  #           20:04
+   - url: https://drive.google.com/file/d/1xAkHUGewIpKQgh7wxDAOw_IAYZVtWU1G/view?usp=sharing
+     title: Built-in Functions
+     duration: |
+            20:04
         
   #  - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
   #    live: 1
