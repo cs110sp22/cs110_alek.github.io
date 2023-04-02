@@ -9,7 +9,7 @@ num: 2
 description: 
     - Installing Python3 & IDLE
     - Writing your first programs
-due_date: 2022-04-05
+due_date: 2023-04-05
 ---
 
 **Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit?usp=sharing" target="_blank">here</a>. 
