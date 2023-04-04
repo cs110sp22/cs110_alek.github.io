@@ -11,7 +11,7 @@ permalink: /syllabus/
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
-| **Lecture Location** | Seabury Classroom 250|
+| **Lecture Location** | 2122 Sheridan Rd Classroom 250 |
 
 ## About the Course
 CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
@@ -148,7 +148,7 @@ To ensure a smooth lecture experience for everyone, we have created a [Zoom Guid
 The Provost's office has asked instructors to publish the following language in the syllabus:
 
 > ### Class Recordings
-> This class or portions of this class may be recorded by the instructor for educational purposes. These recordings will be shared only with students enrolled in the course and will be deleted at the end of the Spring Quarter, 2022 course. Your instructor will communicate how you can access the recordings.
+> This class or portions of this class may be recorded by the instructor for educational purposes. These recordings will be shared only with students enrolled in the course and will be deleted at the end of the Spring Quarter, 2023 course. Your instructor will communicate how you can access the recordings.
 >
 > ### Policy On Unauthorized Student Recording of Classroom or other Academic Activities
 > Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited.  
