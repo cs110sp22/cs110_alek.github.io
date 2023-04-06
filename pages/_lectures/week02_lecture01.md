@@ -34,10 +34,10 @@ videos:
      duration: |
             20:04
         
-  #  - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
-  #    live: 1
-  #    title: Practice with variables, constants, & operators
-  #    duration: |
+   - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
+     live: 1
+     title: Practice with variables, constants, & operators
+     duration: |
         
 
 readings:
