@@ -12,10 +12,8 @@ description:
 due_date: 2023-04-11
 slides:
   - url: https://docs.google.com/presentation/d/1lDUaOT4IDrCRfcTNatJMbTGUGX1qN8nsf9LgaQE9FNQ/edit#slide=id.g121b91b6421_0_72
-    title: "{New} Intro to Functions"
-  - url:  https://docs.google.com/presentation/d/1ZAIOn7dIpM_Afq_KSAvyb4M0WHJDYkXr/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
-    title: "{Old} Intro to Functions"
-  - url: https://docs.google.com/presentation/d/1_QoAa_gzibOgoElRr4-_xh9ZJzd3tlde/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
+    title: "Intro to Functions"
+  - url:  https://docs.google.com/presentation/d/1ZAIOn7dIpM_Afq_KSAvyb4M0WHJDYkXr/edit?usp=sharing&ouid=114823705687801952013&rtpof=true&sd=true
     title: Supplementary Slides for Live Lecture
 videos: 
   - url: https://drive.google.com/file/d/14AhV1MKXal-QcaONaxS7iFkTj3kU_2S-/view?usp=sharing 
