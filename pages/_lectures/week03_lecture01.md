@@ -8,7 +8,7 @@ description:
   - Creating your own functions
   - Defining versus invoking functions
 due_date: 2023-04-13
-quiz_url: https://canvas.northwestern.edu/courses/163402/quizzes/176132
+quiz_url: https://canvas.northwestern.edu/courses/188296/quizzes/203400
 slides:
   - url: https://docs.google.com/presentation/d/1OedEaZl_5ydgWFxjzSoKyXJ7RUdIuWnx/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: "Creating your own functions"
