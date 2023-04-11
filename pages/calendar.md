@@ -27,6 +27,7 @@ permalink: /cal/
 |---|----|--------|----------|
 |Mon|10am|Mudd 3532|Lisa|
 |Tue|4pm|First floor lobby of Mudd|Maria|
+|Tue|12pm|Frances Searle 1-441|Wendy|
 |Wed|11am|First floor lobby of Mudd|Sydney|
 |Wed|2:30pm|First floor lobby of Mudd|Kelly|
 |Wed|6pm|Mudd 3532|Lucy|
