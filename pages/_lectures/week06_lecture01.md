@@ -26,10 +26,10 @@ videos:
    - title: "Looping algorithms"
      url: https://drive.google.com/file/d/1hpUkf1Oyc2cZqGdQgQMTKlFtGKdT_IlR/view?usp=sharing
      duration: "15:52"
-  #  - title: "Practice w/ looping algorithms"
-  #    url: https://drive.google.com/file/d/1PMeGRMpTt3Al3qspr1TSrWsBYgAOILob/view?usp=drivesdk
-  #    duration: ""
-  #    live: 1
+   - title: "Practice w/ looping algorithms"
+     url: https://drive.google.com/file/d/1PMeGRMpTt3Al3qspr1TSrWsBYgAOILob/view?usp=drivesdk
+     duration: ""
+     live: 1
      
 #quiz_url: "https://canvas.northwestern.edu/courses/137481/quizzes/140098"
 exercise_url: "lecture10.zip"
