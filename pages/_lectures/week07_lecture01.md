@@ -6,7 +6,7 @@ description:
 type: quiz
 draft: 0
 num: 2
-due_date: 2023-05-9
+due_date: 2023-05-09
 ---
 
 ## QUIZ 2 LINK NOW POSTED
