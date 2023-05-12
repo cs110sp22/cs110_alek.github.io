@@ -32,10 +32,10 @@ videos:
    - title: "Some Example Programs"
      url: https://drive.google.com/file/d/1NdxIEpafm2ATeaL_qn6odwG0jFAarxPn/view?usp=drivesdk
      duration: "6:37"
-  #  - title: "Practice working with files and string functions"
-  #    url: https://drive.google.com/file/d/1zD6UQlZeYlhATPGFRNX3vKcXxlp8ybT5/view?usp=drivesdk
-  #    duration: ""
-  #    live: 1
+   - title: "Practice working with files and string functions"
+     url: https://drive.google.com/file/d/1zD6UQlZeYlhATPGFRNX3vKcXxlp8ybT5/view?usp=drivesdk
+     duration: ""
+     live: 1
 
 
 
