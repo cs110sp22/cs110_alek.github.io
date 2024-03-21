@@ -35,7 +35,7 @@ videos:
             20:04
         
    - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
-     live: 1
+     live: 0
      title: Practice with variables, constants, & operators
      duration: |
         
@@ -52,7 +52,7 @@ readings:
 extras:
   - title: "Tutorial Signups"
     comments: "You MUST sign up for a tutorial session"
-    url: "https://docs.google.com/spreadsheets/d/1e4Z4iGUMO6U131H0d5I2NbxN1acSsYo33csIX1PJLOQ/edit?usp=sharing"
+    url: "https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing"
     external: 1
 
 exercise_url: "lecture02.zip"

@@ -5,13 +5,13 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Spring, 2023 |
+| **Term** | Spring, 2024 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
-| **Lecture Location** | 2122 Sheridan Rd Classroom 250 |
+| **Lecture Location** | Pancoe Building Abbott Aud |
 
 ## About the Course
 CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
@@ -40,15 +40,17 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 We have 10 peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Kelly Meng (kellymeng2025@u.northwestern.edu)
-* Lisa Saltzberg (lisasaltzberg2025@u.northwestern.edu)
-* Lucy Joseph (lucyjoseph2024@u.northwestern.edu)
-* Maria Fernandez Davila Pastor (mariafernandezdavilapastor2024@u.northwestern.edu)
-* Sydney TerMolen (sydneytermolen2026@u.northwestern.edu)
-* Wendy Huang (wendyhuang2026@u.northwestern.edu)
+* Amy Chen	      (acl3759@ads.northwestern.edu)
+* Alan Guo	      (atg8772@ads.northwestern.edu)
+* Lucy Joseph	  (laj2992@ads.northwestern.edu)
+* Eliot Lee	      (ejl4113@ads.northwestern.edu)
+* Gerardo Perez	  (gap2309@ads.northwestern.edu)
+* Annabelle Sole  (afs4212@ads.northwestern.edu)
+* Anna Xiao	      (axz9274@ads.northwestern.edu)
+* David Xu	      (dpx8434@ads.northwestern.edu)
 
 ### Graduate Teaching Assistant
-* Weijian Li (weijianli2021@u.northwestern.edu)
+* Panitan Wongse-ammat (Panitan.W@u.northwestern.edu)
 
 ## Course Materials and Resources 
 

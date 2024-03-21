@@ -15,7 +15,7 @@ slides:
      title: Course Logistics
 
 videos:
-   - url: "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
+   - url: "TBD" # "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
      duration: |
             38:20
         
@@ -24,7 +24,7 @@ videos:
 extras:
   - title: "Tutorial Signup"
     comments: "Sign up for a tutorial here!"
-    url: "https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing"
+    url: "https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing"
     external: 1
   - title: "Course Questionnaire"
     comments: "Please complete the pre-course questionnaire by tonight (3/31)!"
