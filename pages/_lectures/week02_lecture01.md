@@ -7,34 +7,34 @@ num: 2
 show_schedule: 1
 description:
   - Variables, operators, data types, and built-in functions
-due_date: 2023-04-04
+due_date: 2024-04-02
 slides:
   - url: https://docs.google.com/presentation/d/1HSAEIMRrsJyca-5ddBZmcIkgyRS-ZfHYs_QGkuKFUmk/edit?usp=sharin://docs.google.com/presentation/d/1FGs9ZGihXqyr2oWU1W64CWzTFCGYAQtw/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
     title: The Building Blocks of Programming
   - url: https://drive.google.com/file/d/1bP8SInoijPix9414fJNpQos_WzXRBNXY/view?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos:
-   - url: https://drive.google.com/file/d/1JwW-VlsGZvvz90ZUUZ5AANrzNgvDrbLL/view?usp=sharing
+   - url: "TBD" # https://drive.google.com/file/d/1JwW-VlsGZvvz90ZUUZ5AANrzNgvDrbLL/view?usp=sharing
      duration: |
             14:20
         
      title: Using the Lecture Files
-   - url: https://drive.google.com/file/d/1VIi2rUgne9npXH2VuXQRsKPPEQlVfLOT/view?usp=sharing
+   - url: "TBD" # https://drive.google.com/file/d/1VIi2rUgne9npXH2VuXQRsKPPEQlVfLOT/view?usp=sharing
      duration: |
             22:16
         
      title: Data Types & Variables
-   - url: https://drive.google.com/file/d/1csk59rXGM2g8sbtL9XEPvEhs_mQzBixc/view?usp=sharing
+   - url: "TBD" # https://drive.google.com/file/d/1csk59rXGM2g8sbtL9XEPvEhs_mQzBixc/view?usp=sharing
      title: Operators
      duration: |
             14:42
         
-   - url: https://drive.google.com/file/d/1xAkHUGewIpKQgh7wxDAOw_IAYZVtWU1G/view?usp=sharing
+   - url: "TBD" # https://drive.google.com/file/d/1xAkHUGewIpKQgh7wxDAOw_IAYZVtWU1G/view?usp=sharing
      title: Built-in Functions
      duration: |
             20:04
         
-   - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
+   - url: "TBD" # https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
      live: 0
      title: Practice with variables, constants, & operators
      duration: |
