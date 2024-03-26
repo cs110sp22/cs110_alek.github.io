@@ -7,8 +7,7 @@ permalink: /cal/
 # Office Hours
 
 - If the office hours do not work for you, let us know.
-- Office Hours are one hour long, unless otherwise noted.  
-- This page is still under construction, so please check back in a few hours.
+- Office Hours are one hour long, unless otherwise noted.
 
 | Instructor     | Date time     | Location      |
 | -------------- | ------------- | ------------- |
@@ -35,8 +34,7 @@ permalink: /cal/
 
 # Tutorials
 
-- ([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing))  
-- This page is still under construction, so please check back in a few hours.
+- ([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing))
 
 | Instructor     | Date time     | Location      |
 | -------------- | ------------- | ------------- |
