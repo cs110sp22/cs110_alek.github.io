@@ -9,10 +9,19 @@ permalink: /cal/
 - If the office hours do not work for you, let us know.
 - Office Hours are one hour long, unless otherwise noted.  
 
-TBD
+| Instructor     | Date time     | Location      |
+| -------------- | ------------- | ------------- |
+| Amy Chen       | TBA           | TBA           |
+| Alan Guo       | Tue 3-4pm     | Mudd 3532     |
+| Lucy Joseph    | Tue 4-5pm     | Tech L160     |
+| Eliot Lee      | Mon 1-2pm     | TCHL 150      |
+| Gerardo Perez  | Mon 12-1pm    | Annenberg G01 |
+| Annabelle Sole | Mon 11am-12pm | Annenberg G29 |
+| Anna Xiao      | Mon 2-3pm     | Mudd Lobby    |
+| David Xu       | TBA           | TBA           |
 
 <!---
-|Day|Time| Location|Instructor| 
+|Day|Time| Location|Instructor|
 |---|----|---------|----------|
 |Mon|11am|Mudd 3532|Lisa|
 |Mon|2:30pm|Mudd 3532|Kelly|
@@ -27,7 +36,16 @@ TBD
 
 ([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing))  
 
-TBD
+| Instructor     | Date time     | Location      |
+| -------------- | ------------- | ------------- |
+| Amy Chen       | TBA           | TBA           |
+| Alan Guo       | Tue 3-4pm     | Mudd 3532     |
+| Lucy Joseph    | Tue 4-5pm     | Tech L160     |
+| Eliot Lee      | Mon 1-2pm     | TCHL 150      |
+| Gerardo Perez  | Mon 12-1pm    | Annenberg G01 |
+| Annabelle Sole | Mon 11am-12pm | Annenberg G29 |
+| Anna Xiao      | Mon 2-3pm     | Mudd Lobby    |
+| David Xu       | TBA           | TBA           |
 
 <!---
 |Day|Time|Location|Instructor|

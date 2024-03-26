@@ -40,17 +40,19 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 We have 8 peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Amy Chen	      (acl3759@ads.northwestern.edu)
-* Alan Guo	      (atg8772@ads.northwestern.edu)
-* Lucy Joseph	  (laj2992@ads.northwestern.edu)
-* Eliot Lee	      (ejl4113@ads.northwestern.edu)
-* Gerardo Perez	  (gap2309@ads.northwestern.edu)
-* Annabelle Sole  (afs4212@ads.northwestern.edu)
-* Anna Xiao	      (axz9274@ads.northwestern.edu)
-* David Xu	      (dpx8434@ads.northwestern.edu)
+Note that if you want to contact any PMs via email, you should replace their 
+`<nu_email_suffix>` with u.northwestern.edu.
+- Amy Chen       (amychen2024@`<nu_email_suffix>`)
+- Alan Guo       (alanguo2026@`<nu_email_suffix>`)
+- Lucy Joseph    (lucyjoseph2024@`<nu_email_suffix>`)
+- Eliot Lee      (eliotlee2026@`<nu_email_suffix>`)
+- Gerardo Perez  (gerardoperez2025@`<nu_email_suffix>`)
+- Annabelle Sole (annabellesole2026@`<nu_email_suffix>`)
+- Anna Xiao      (annaxiao2024@`<nu_email_suffix>`)
+- David Xu       (davidxu2026@`<nu_email_suffix>`)
 
 ### Graduate Teaching Assistant
-* Panitan Wongse-ammat (Panitan.W@u.northwestern.edu)
+* Panitan Wongse-ammat (Panitan.W@`<nu_email_suffix>`)
 
 ## Course Materials and Resources 
 

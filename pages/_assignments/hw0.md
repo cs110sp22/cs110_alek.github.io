@@ -3,14 +3,14 @@ layout: assignment-two-column
 title: Sign up for a Tutorial Session
 abbreviation: HW0
 type: homework
-due_date: 2024-04-05
+due_date: 2024-03-29
 ordering: 0
 draft: 0
 points: 0
 ---
 
 ## Tutorial Sign-Ups
-As described in the syllabus, this course involves weekly small-group tutorial sessions where you will work in groups of 10-12 with a member of the teaching staff. Tutorials beginning in Week 2 (starting on 4/5). Tutorial sessions will be run synchronously (live) by your assigned peer mentors via Zoom. During each tutorial session, you will work through an exercise together with your peer mentor, to advance your understanding of targeted programming concepts. Tutorial submissions count for 10% of your grade.
+As described in the syllabus, this course involves weekly small-group tutorial sessions where you will work in groups of 10-12 with a member of the teaching staff. Tutorials begin in Week 2. Tutorial sessions will be run synchronously (live) by your assigned peer mentors via Zoom. During each tutorial session, you will work through an exercise together with your peer mentor, to advance your understanding of targeted programming concepts. Tutorial submissions count for 10% of your grade.
 
 
 Please sign-up for a tutorial using <a class="lab" href="https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing" target="_blank">THIS SIGN-UP SHEET <i class="fa fa-link" aria-hidden="true"></i></a>. 
