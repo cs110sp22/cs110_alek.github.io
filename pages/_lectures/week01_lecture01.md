@@ -15,10 +15,9 @@ slides:
      title: Course Logistics
 
 videos:
-   - url: "TBD" # "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
+   - url: "https://drive.google.com/file/d/1cFZmW9RJBjH-0XnSucVhEuF3a6VfoeMn/view?usp=sharing"
      duration: |
             38:20
-        
      title: Hardware & Software
 
 extras:
