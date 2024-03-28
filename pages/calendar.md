@@ -40,7 +40,9 @@ permalink: /cal/
 # Tutorials
 
 - ([**_TUTORIAL SIGN UP SHEET_**](https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing))
+- The schedule of tutorials are in the class [(Google calendar)](https://calendar.google.com/calendar/u/0?cid=Y19mYmRlYzA1M2NjNGRjN2MwOWZjODM1OGQ1ODNmMTY2YzhlNTRjZTcwMDE4Yjc3M2JmMWRkZmU4ZDYzYjUyNzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
+<!---
 | Instructor     | Date time     | Location      |
 | -------------- | ------------- | ------------- |
 | Amy Chen       | Mon 3-4pm     | Tech M120     |
@@ -53,7 +55,6 @@ permalink: /cal/
 | David Xu       | Mon 5-6pm     | TCHM164       |
 
 
-<!---
 |Day|Time|Location|Instructor|
 |---|----|--------|----------|
 |Mon|10am|Mudd 3532|Lisa|
@@ -65,5 +66,3 @@ permalink: /cal/
 |Thu|12pm|Mudd 3532|Wendy|
 -->
 
-In case that those office hours and tutorials are not updated, please refer to
-the Google calendar in this [(link)](https://calendar.google.com/calendar/u/0?cid=Y19mYmRlYzA1M2NjNGRjN2MwOWZjODM1OGQ1ODNmMTY2YzhlNTRjZTcwMDE4Yjc3M2JmMWRkZmU4ZDYzYjUyNzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
