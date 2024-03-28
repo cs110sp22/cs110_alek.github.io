@@ -62,4 +62,4 @@ permalink: /cal/
 -->
 
 In case that those office hours and tutorials are not updated, please refer to
-the Google calendar in this [link](https://calendar.google.com/calendar/u/0?cid=Y19mYmRlYzA1M2NjNGRjN2MwOWZjODM1OGQ1ODNmMTY2YzhlNTRjZTcwMDE4Yjc3M2JmMWRkZmU4ZDYzYjUyNzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+the Google calendar in this [(link)](https://calendar.google.com/calendar/u/0?cid=Y19mYmRlYzA1M2NjNGRjN2MwOWZjODM1OGQ1ODNmMTY2YzhlNTRjZTcwMDE4Yjc3M2JmMWRkZmU4ZDYzYjUyNzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
