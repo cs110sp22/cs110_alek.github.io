@@ -11,14 +11,15 @@ permalink: /cal/
 
 | Instructor     | Date time     | Location      |
 | -------------- | ------------- | ------------- |
-| Amy Chen       | TBA           | TBA           |
+| Amy Chen       | Wed 3-4pm     | Mudd Lobby    |
 | Alan Guo       | Tue 3-4pm     | Mudd 3532     |
 | Lucy Joseph    | Tue 4-5pm     | Tech L160     |
 | Eliot Lee      | Mon 1-2pm     | TCHL 150      |
 | Gerardo Perez  | Mon 12-1pm    | Annenberg G01 |
 | Annabelle Sole | Mon 11am-12pm | Annenberg G29 |
-| Anna Xiao      | Mon 2-3pm     | Mudd Lobby    |
-| David Xu       | TBA           | TBA           |
+| Anna Xiao      | Wed 4-5pm     | Mudd 3523     |
+| David Xu       | Wed 3-4pm     | TCHM177       |
+
 
 <!---
 |Day|Time| Location|Instructor|
@@ -38,14 +39,14 @@ permalink: /cal/
 
 | Instructor     | Date time     | Location      |
 | -------------- | ------------- | ------------- |
-| Amy Chen       | TBA           | TBA           |
+| Amy Chen       | Mon 3-4pm     | Tech M120     |
 | Alan Guo       | Tue 2-3pm     | Mudd 3532     |
 | Lucy Joseph    | Tue 1-2pm     | Annenberg G32 |
 | Eliot Lee      | Wed 1-2pm     | TCHL 158      |
 | Gerardo Perez  | Wed 12-1pm    | Annenberg G30 |
 | Annabelle Sole | Wed 11am-12pm | Annenberg G29 |
-| Anna Xiao      | Wed 2-3pm     | Mudd3523      |
-| David Xu       | TBA           | TBA           |
+| Anna Xiao      | Mon 2-3pm     | Tech M177     |
+| David Xu       | Mon 5-6pm     | TCHM164       |
 
 
 <!---
@@ -59,3 +60,6 @@ permalink: /cal/
 |Wed|6pm|Mudd 3532|Lucy|
 |Thu|12pm|Mudd 3532|Wendy|
 -->
+
+In case that those office hours and tutorials are not updated, please refer to
+the Google calendar in this [link](https://calendar.google.com/calendar/u/0?cid=Y19mYmRlYzA1M2NjNGRjN2MwOWZjODM1OGQ1ODNmMTY2YzhlNTRjZTcwMDE4Yjc3M2JmMWRkZmU4ZDYzYjUyNzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
