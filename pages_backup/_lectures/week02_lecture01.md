@@ -52,7 +52,7 @@ readings:
 extras:
   - title: "Tutorial Signups"
     comments: "You MUST sign up for a tutorial session"
-    url: "https://docs.google.com/spreadsheets/d/1tv3gYYHDtULlY7IvZPWZCx3A1lr_dCSsFWEizK5VWW8/edit?usp=sharing"
+    url: "https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit?usp=sharing"
     external: 1
 
 exercise_url: "lecture02.zip"
