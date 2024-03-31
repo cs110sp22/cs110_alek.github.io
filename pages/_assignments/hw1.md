@@ -109,7 +109,7 @@ When you're done, please complete the following 9 exercises by editing the **mai
 ```
 
 #### 4. Write a program that computes and prints the result of: 
-<img src="/assets/images/hw01/equation.png" style="width: 100px;"/>
+<img src="../assets/images/hw01/equation.png" style="width: 100px;"/>
 
 (The answer is roughly 0.1017).
 
