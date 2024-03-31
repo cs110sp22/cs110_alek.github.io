@@ -32,13 +32,19 @@ After going through the installation process, navigate to the folder on your mac
 
 Inside, the Python 3.10 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:
 
-<img class="screenshot" src="/assets/images/hw01/idle1.png" />
+<!--  
+    <img class="screenshot" src="/assets/images/hw01/idle1.png" />
+-->
+![idle1.png](/assets/images/hw01/idle1.png)
 
 I recommend keeping IDLE in your dock (on a Mac) or making a Desktop Shortcut to IDLE (on Windows).
 
 At the **&gt;&gt;&gt;** prompt, you can type any valid python command. For example, type `print("hello world!")` and hit enter. You should see something like this:
-
+<!---
 <img class="screenshot" src="/assets/images/hw01/idle2.png" />
+-->
+
+![idle2.png](/assets/images/hw01/idle2.png)
 
 
 ## Part 2: Complete the Programming Exercises
