@@ -10,7 +10,7 @@ For security purposes, all zoom meetings will require that you sign-in via your 
 
 ## Finding Your Zoom Link
 * We will have different zoom links for different kinds of activities. All zoom links corresponding to lectures, office hours, and labs will be made available via the [course calendar](../../times-locations/). All zoom meetings will be password-protected (see Canvas for passwords).
-* The Zoom link and password for all lectures (Tu, Th 9:30-10:50AM) is posted on <a href="https://canvas.northwestern.edu/courses/137481" target="_blank">Canvas</a>.
+* The Zoom link and password for all lectures (Tu, Th 9:30-10:50AM) is posted on Canvas.
 
 ## Recording (Audio / Video)
 We **will** be recording all sessions during regularly scheduled class time. We WILL NOT be recording office hours or lab sessions in order to protect students' privacy.
