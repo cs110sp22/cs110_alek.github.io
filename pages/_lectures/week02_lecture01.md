@@ -30,12 +30,13 @@ videos:
      title: Built-in Functions
      duration: |
             20:04
-        
-#    - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
-#      live: 0
-#      title: Practice with variables, constants, & operators
-#      duration: |
-        
+
+   - url: https://drive.google.com/file/d/1-yL629JVgxm-gIhHsKSj6sghpzIUoxf2/view?usp=sharing
+     live: 0
+     title: Practice with variables, constants, & operators
+     duration: |
+            1:20:51
+ 
 
 readings:
   - title: "Ch2: Variables"
