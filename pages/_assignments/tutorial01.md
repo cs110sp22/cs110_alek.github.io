@@ -14,7 +14,7 @@ due_date: 2024-04-03
 
 **Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit#gid=0" target="_blank">here</a>. 
 
-In tutorial today, you will meet your peer mentor and fellow classmates, install Python3 (if you haven't already), and write a few simple programs. Attendance at your first tutorial session is **MANDATORY**.
+In tutorial today, you will meet your peer mentor and fellow classmates, install Python3 (if you haven't already), and write a few simple programs.
 
 ## Part 1: Install Python (HW1, Part1)
 Please refer to part 1 of the [hw1](hw1) for instructions on how to install Python on your computer. Feel free to go through this process *before* your tutorial, but if you get stuck, tutorial is your time to get questions answered.
