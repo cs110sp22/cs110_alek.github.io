@@ -203,7 +203,7 @@ blockquote {
         margin: 0px;
     }
 }
-  
+
 footer {
     border-top: dotted 1px $grey;
     margin-top: 150px;
@@ -213,7 +213,7 @@ footer {
         text-align: center;
     }
 }
- 
+
 main {
     grid-area: main;
     &.sticky {
@@ -226,7 +226,7 @@ header {
     grid-area: top;
     align-items: flex-end;
     flex-direction: column;
-    background: url(/spring2022/assets/images/purple-polygons.png) repeat-y;
+    background: url(../assets/images/purple-polygons.png) repeat-y;
     h1 {
         margin-bottom: 0px;
         color: white;
@@ -260,7 +260,7 @@ nav {
         flex-direction: row;
         padding: 0px;
         margin: 0px;
-        
+
         li {
             border-bottom: solid 3px transparent;
             list-style: none;
