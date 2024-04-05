@@ -4,8 +4,8 @@ title: "Modules and Variable Scope"
 type: lecture
 num: 6
 draft: 0
-due_date: 2023-04-18
-quiz_url: https://canvas.northwestern.edu/courses/163402/quizzes/176141
+due_date: 2024-04-11
+# quiz_url: https://canvas.northwestern.edu/courses/163402/quizzes/176141
 description:
     - Creating modules
     - Global and local variables
@@ -23,10 +23,10 @@ videos:
    - title: "Variable Scope"
      url: https://drive.google.com/file/d/1H8nsewRr3ddmz6ChH7xdAbRTKXEC7aT2/view?usp=sharing
      duration: "17:39"
-   - title: "More functions / modules practice"
-     url: https://drive.google.com/file/d/1pKugXCgJGK3QwUAM0s-WoH6YEhSF2XcW/view?usp=sharing
-     duration: ""
-     live: 1
+#   - title: "More functions / modules practice"
+#     url: https://drive.google.com/file/d/1pKugXCgJGK3QwUAM0s-WoH6YEhSF2XcW/view?usp=sharing
+#     duration: ""
+#     live: 1
 
 exercise_url: "lecture06.zip"
 readings:
@@ -39,4 +39,3 @@ readings:
 In today's pre-recorded lectures, we are going to go over:
 1. Modules: a way of organizing and reusing code, and
 2. Variable scope: what parts of memory can your program access at any given time?
- 
