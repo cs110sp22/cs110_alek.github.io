@@ -11,7 +11,7 @@ permalink: /syllabus/
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
-| **Lecture Location** | Pancoe Building Abbott Aud |
+| **Lecture Location** | Pancoe Building Abbott Auditorium |
 
 ## About the Course
 CS 110 is an introduction to computer programming using Python, and assumes no prior programming knowledge. The intent of the course is twofold. First, we want to give you a sense of the kinds of problem-solving and creative pursuits that programming can support. Programming can be many different things — a representational medium, a tool for thinking about problems, a way of amplifying and/or communicating ideas, a means of performing complex calculations over massive datasets, and so forth. Most people who write computer programs are not computer scientists, but rather people who occupy a range of professions (journalists, geographers, sociologists, scientists, artists, musicians, entrepreneurs, researchers, etc.), and who use various programming languages to accomplish diverse and specialized goals. Moreover, as data and computing increasingly mediate modern life, knowing a bit about the mechanisms (and risks!) that underlie these systems is a valuable modern literacy that is likely to serve you well.
@@ -26,7 +26,7 @@ Lectures will a combination of synchronous and asynchronous content, which will 
 **Bottom line**: You are encouraged to attend the regularly scheduled live lectures, but videos (either from this year’s or last year’s lectures) will be posted to the website.
 
 ### Tutorial Sessions (Your Participation Grade)
-The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on Friday, 4/1. There will be around 10 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
+The best way to learn how to program is to practice writing lots of programs. To encourage this, you will sign up for a required tutorial section on Friday, 3/29. There will be around 10 tutorial sections that you can sign up for (with around 12 students per section). Your tutorial peer mentor will be your "go to person" for the course -- feel free to reach out to them with any questions or concerns that you may have.
 
 These tutorials have a few goals:
 1. To help you become familiar with the types of strategies you might use to approach problems (which will be closely related to the homework / projects).
@@ -40,17 +40,19 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 We have 8 peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Amy Chen	      (acl3759@ads.northwestern.edu)
-* Alan Guo	      (atg8772@ads.northwestern.edu)
-* Lucy Joseph	  (laj2992@ads.northwestern.edu)
-* Eliot Lee	      (ejl4113@ads.northwestern.edu)
-* Gerardo Perez	  (gap2309@ads.northwestern.edu)
-* Annabelle Sole  (afs4212@ads.northwestern.edu)
-* Anna Xiao	      (axz9274@ads.northwestern.edu)
-* David Xu	      (dpx8434@ads.northwestern.edu)
+Note that if you want to contact any PMs via email, you should replace their 
+`<nu_email_suffix>` with u.northwestern.edu.
+- Amy Chen       (amychen2024@`<nu_email_suffix>`)
+- Alan Guo       (alanguo2026@`<nu_email_suffix>`)
+- Lucy Joseph    (lucyjoseph2024@`<nu_email_suffix>`)
+- Eliot Lee      (eliotlee2026@`<nu_email_suffix>`)
+- Gerardo Perez  (gerardoperez2025@`<nu_email_suffix>`)
+- Annabelle Sole (annabellesole2026@`<nu_email_suffix>`)
+- Anna Xiao      (annaxiao2024@`<nu_email_suffix>`)
+- David Xu       (davidxu2026@`<nu_email_suffix>`)
 
 ### Graduate Teaching Assistant
-* Panitan Wongse-ammat (Panitan.W@u.northwestern.edu)
+* Panitan Wongse-ammat (Panitan.W@`<nu_email_suffix>`)
 
 ## Course Materials and Resources 
 
