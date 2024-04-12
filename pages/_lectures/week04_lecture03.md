@@ -10,8 +10,8 @@ due_date: 2024-04-18
 
 ---
 ## Study Materials
-<!-- * <a href="https://docs.google.com/document/d/1oo9VuvuGfcWDGvxmlAfgMdk-8mvM_vgOW7g5cvm8His/edit?usp=sharing" target="_blank">Study Guide</a> -->
-* Please do the <a href="https://canvas.northwestern.edu/courses/188296/quizzes/203410" target="_blank">practice mini-quizzes</a>
+* <a href="https://docs.google.com/document/d/1oo9VuvuGfcWDGvxmlAfgMdk-8mvM_vgOW7g5cvm8His/edit?usp=sharing" target="_blank">Study Guide</a>
+* Please do the practice mini-quizzes 1a and 1b on Canvas.
 * Please note that you require to use the [Lockdown Browser](../resources/lockdown-browser).
 
 ## How to Take The Actual Quiz
