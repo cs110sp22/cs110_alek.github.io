@@ -13,7 +13,7 @@ due_date: 2024-04-17
 draft: 0
 ---
 
-<a class="nu-button" href="/course-files/tutorials/tutorial03.zip" target="_blank">
+<a class="nu-button" href="../course-files/tutorials/tutorial03.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
@@ -66,7 +66,7 @@ make_square(canvas, (150, 75), 25, fill_color=body_color)            # pixel (7,
 
 Then run it using IDLE (or a code editor of your choice). You should see a picture of Frank (below). 
 
-<img class="small frame" src="/assets/images/tutorials/frank1.png" />
+<img class="small frame" src="../assets/images/tutorials/frank1.png" />
 
 A few things to pay attention to in this file:
 
@@ -115,7 +115,7 @@ make_frank(canvas, (420, 10), pixel=15)
 
 ```
 
-<img class="medium frame" src="/assets/images/tutorials/franks.png" />
+<img class="medium frame" src="../assets/images/tutorials/franks.png" />
 
 ## Optional Challenges
 
