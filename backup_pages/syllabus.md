@@ -35,6 +35,9 @@ These tutorials have a few goals:
 
 Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 7 tutorials**, but are encouraged to complete them all. 
 
+Attendance to Tutorial sessions is mandatory and it is part of your grade. If students do not show up in the tutorial, he/she will get zero point.
+
+The late submission of the tutorial is the same as the homework. Thus, You should check out the homework section for the late policy.
 
 ## Course Staff
 We have 8 peer mentors (undergraduates) and a graduate TA to help you:
