@@ -32,10 +32,10 @@ videos:
    - title: "Loops & Lists"
      url: https://drive.google.com/file/d/1ijYIRb3iDpTTcl0v0DHdg0moczamzYqN/view?usp=sharing
      duration: "18:19"
-#   - title: "Practice with logical and comparison operators; while loops"
-#     url: https://drive.google.com/file/d/1gc8KHj1DJSW4vAhPfGtasQWPXMZVrrUc/view?usp=sharing
-#     duration: ""
-#     live: 1
+  - title: "Practice with logical and comparison operators; while loops"
+    url: https://drive.google.com/file/d/1gc8KHj1DJSW4vAhPfGtasQWPXMZVrrUc/view?usp=sharing
+    duration: ""
+    live: 1
 
 
 exercise_url: "lecture09.zip"
