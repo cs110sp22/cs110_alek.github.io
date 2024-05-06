@@ -10,7 +10,7 @@ due_date: 2024-05-07
 ---
 
 ## QUIZ 2 LINK NOW POSTED
-Here is a link to **Quiz 2**: <a href="https://canvas.northwestern.edu/courses/188296/quizzes/203398" target="_blank">https://canvas.northwestern.edu/courses/188296/quizzes/203398</a>
+Please go to Canvas to access the quiz 2.
 
 
 ## Study Materials
