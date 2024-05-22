@@ -16,12 +16,11 @@ readings:
 slides: 
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1Iw-Sv8egdxay1Q8J6HV_1CPncFfZXxj-/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
-
-# videos:
-#    - title: "Dictionaries"
-#      url: https://drive.google.com/file/d/1tETrdBelW_BCx8QM-8_EUKXsjlO3n4_U/view?usp=sharing
-#      duration: ""
-#      live: 1
+videos:
+   - title: "Dictionaries"
+     url: https://drive.google.com/file/d/1tETrdBelW_BCx8QM-8_EUKXsjlO3n4_U/view?usp=sharing
+     duration: ""
+     live: 1
 
 exercise_url: "lecture15.zip"
 ---
