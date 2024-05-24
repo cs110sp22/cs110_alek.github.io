@@ -29,10 +29,10 @@ videos:
    - title: "Grouping & Counting - Legislature"
      url: https://drive.google.com/file/d/1Ak8HPh_rf6gNUALoJrJQXLO3vg7Z9jfZ/view?usp=sharing 
      duration: "14:03"
-#  - title: "Restaurant Analysis"
-#    url: https://drive.google.com/file/d/1PAoTlY7Ll510ueVOtiZQRsccLVTPJsYy/view?usp=sharing
-#    duration: ""
-#    live: 1
+   - title: "Restaurant Analysis"
+     url: https://drive.google.com/file/d/1PAoTlY7Ll510ueVOtiZQRsccLVTPJsYy/view?usp=sharing
+     duration: ""
+     live: 1
 ---
 
 Dictionaries are also very useful tools for data analysis. Today, we'll go over how dictionaries can help you to group, tally, and analyze data.
