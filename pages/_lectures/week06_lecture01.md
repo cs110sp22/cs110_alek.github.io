@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 10
-due_date: 2024-04-30
+due_date: 2025-05-06
 slides: 
    - title: "More Loops: For Loops & Lists"
      url: https://docs.google.com/presentation/d/1hp5W6rn495Sw6L8NHd9JOubsWByIUHom/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true

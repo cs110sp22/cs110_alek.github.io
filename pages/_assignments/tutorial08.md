@@ -9,7 +9,7 @@ abbreviation: Tutorial 8
 draft: 0
 num: 8
 points: 3
-due_date: 2024-05-22
+due_date: 2025-05-28
 draft: 0
 ---
 

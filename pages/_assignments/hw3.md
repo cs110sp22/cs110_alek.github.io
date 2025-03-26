@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Make a Creature
 abbreviation: HW3
 type: homework
-due_date: 2024-04-19
+due_date: 2025-04-25
 ordering: 3
 points: 8
 draft: 0

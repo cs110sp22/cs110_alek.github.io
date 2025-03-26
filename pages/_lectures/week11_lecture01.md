@@ -4,7 +4,7 @@ title:  Quiz 3
 type: quiz
 draft: 0
 num: 3
-due_date: 2024-05-30
+due_date: 2025-06-05
 
 ---
 

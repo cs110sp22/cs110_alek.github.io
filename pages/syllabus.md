@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Spring, 2024 |
+| **Term** | Spring, 2025 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
@@ -45,7 +45,10 @@ We have 8 peer mentors (undergraduates) and a graduate TA to help you:
 ### Peer Mentors
 Note that if you want to contact any PMs via email, you should replace their 
 `<nu_email_suffix>` with u.northwestern.edu.
-- Amy Chen       (amychen2024@`<nu_email_suffix>`)
+
+_List of peer mentors to come._
+
+<!--- Amy Chen       (amychen2024@`<nu_email_suffix>`)
 - Alan Guo       (alanguo2026@`<nu_email_suffix>`)
 - Lucy Joseph    (lucyjoseph2024@`<nu_email_suffix>`)
 - Eliot Lee      (eliotlee2026@`<nu_email_suffix>`)
@@ -53,9 +56,11 @@ Note that if you want to contact any PMs via email, you should replace their
 - Annabelle Sole (annabellesole2026@`<nu_email_suffix>`)
 - Anna Xiao      (annaxiao2024@`<nu_email_suffix>`)
 - David Xu       (davidxu2026@`<nu_email_suffix>`)
+-->
 
-### Graduate Teaching Assistant
-* Panitan Wongse-ammat (Panitan.W@`<nu_email_suffix>`)
+### Graduate Teaching Assistants
+* Carl Colglazier (carlcolglazier@`<nu_email_suffix>`)
+* Qinjie Lin (QinjieLin2018@`<nu_email_suffix>`)
 
 ## Course Materials and Resources 
 

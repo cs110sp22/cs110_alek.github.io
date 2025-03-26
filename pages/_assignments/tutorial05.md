@@ -11,7 +11,7 @@ abbreviation: Tutorial 5
 points: 3
 draft: 0
 num: 5
-due_date: 2024-05-01
+due_date: 2025-05-07
 draft: 0
 ---
 

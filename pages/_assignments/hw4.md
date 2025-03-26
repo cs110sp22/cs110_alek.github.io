@@ -4,7 +4,7 @@ title: Animations & Landscapes
 abbreviation: HW4
 type: homework
 files: course-files/assignments/hw04.zip
-due_date: 2024-05-03
+due_date: 2025-05-09
 points: 8
 draft: 0
 ---

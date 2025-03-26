@@ -9,7 +9,7 @@ num: 2
 description: 
     - Practice creating custom functions
     - Intro to Tkinter
-due_date: 2024-04-10
+due_date: 2025-04-16
 ---
 
 <a class="nu-button" href="../course-files/tutorials/tutorial02.zip" target="_blank">
