@@ -43,6 +43,7 @@ exclude:
   - course-files/lectures/drafts
   - course-files/practice_exams/drafts
   - course-files/projects/drafts
+  - [vendor]
 collections:
   assignments:
     output: true
