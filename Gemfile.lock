@@ -84,7 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4.1)
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.17.0)
   minima (~> 2.0)
   tzinfo-data
   webrick
