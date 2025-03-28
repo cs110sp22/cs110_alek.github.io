@@ -30,8 +30,8 @@ timezone: "America/Chicago"
 # Build settings
 markdown: kramdown
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 exclude:
   - _lectures/draft
   - _assignments/draft
@@ -43,7 +43,6 @@ exclude:
   - course-files/lectures/drafts
   - course-files/practice_exams/drafts
   - course-files/projects/drafts
-  - [vendor]
 collections:
   assignments:
     output: true
