@@ -30,8 +30,8 @@ timezone: "America/Chicago"
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 exclude:
   - _lectures/draft
   - _assignments/draft
