@@ -40,23 +40,25 @@ Attendance to Tutorial sessions is mandatory and it is part of your grade. If st
 The late submission of the tutorial is the same as the homework. Thus, You should check out the homework section for the late policy.
 
 ## Course Staff
-We have 8 peer mentors (undergraduates) and a graduate TA to help you:
+We have 8 peer mentors (undergraduates) and two graduate TAs to help you:
 
 ### Peer Mentors
 Note that if you want to contact any PMs via email, you should replace their 
 `<nu_email_suffix>` with u.northwestern.edu.
 
-_List of peer mentors to come._
+| Name              | Email Prefix         |
+|-------------------|----------------------|
+| Aslambek Alibekov	| AslambekAlibekov2027 |
+| Andres Arencibia  | AndresArencibia2027  |
+| Aditya Chakka     | AdityaChakka2025     |
+| Brady Chiu        | BradyChiu2028        |
+| Aiden Lee         | AidenLee2027         |
+| Alicia Li         | AliciaLi2027         |
+| Andre Avellar	    | AndreAvellar2026     |
+| Alex Safayan      | AlexSafayan2025      |
+| Aria Shi          | AriaShi2027          |
+| Chris Zhou        | ChrisZhou2028        |
 
-<!--- Amy Chen       (amychen2024@`<nu_email_suffix>`)
-- Alan Guo       (alanguo2026@`<nu_email_suffix>`)
-- Lucy Joseph    (lucyjoseph2024@`<nu_email_suffix>`)
-- Eliot Lee      (eliotlee2026@`<nu_email_suffix>`)
-- Gerardo Perez  (gerardoperez2025@`<nu_email_suffix>`)
-- Annabelle Sole (annabellesole2026@`<nu_email_suffix>`)
-- Anna Xiao      (annaxiao2024@`<nu_email_suffix>`)
-- David Xu       (davidxu2026@`<nu_email_suffix>`)
--->
 
 ### Graduate Teaching Assistants
 * Carl Colglazier (carlcolglazier@`<nu_email_suffix>`)
