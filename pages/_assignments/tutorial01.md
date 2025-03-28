@@ -9,6 +9,7 @@ num: 2
 description: 
     - Installing Python3 & IDLE
     - Writing your first programs
+date: 2025-04-02
 due_date: 2025-04-09
 ---
 

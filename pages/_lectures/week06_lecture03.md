@@ -8,6 +8,7 @@ description:
 type: lecture
 draft: 0
 num: 11
+date: 2025-05-02
 due_date: 2025-05-08
 slides: 
    - title: "Handling User Input & Event Handlers"

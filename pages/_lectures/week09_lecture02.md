@@ -8,6 +8,7 @@ description:
 type: lecture
 draft: 0
 num: 16
+date: 2025-05-23
 due_date: 2025-05-29
 exercise_url: "lecture16.zip"
 slides:

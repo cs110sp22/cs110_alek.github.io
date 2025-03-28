@@ -7,6 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 13
+date: 2025-05-16
 due_date: 2025-05-20
 slides: 
    - title: "More Files & Strings + Error Handling"

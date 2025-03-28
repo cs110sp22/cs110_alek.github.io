@@ -7,6 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 12
+date: 2025-05-09
 due_date: 2025-05-15
 slides: 
    - title: "Working with Files"

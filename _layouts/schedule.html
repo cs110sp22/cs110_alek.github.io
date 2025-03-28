@@ -5,8 +5,16 @@ layout: default
 <section class="schedule">
     <!-- gets a distinct list of dates from lectures and assignments -->
     {% assign everything = site.assignments | concat: site.lectures %}
-    {% assign dates = everything | sort: 'due_date'| map: 'due_date' | uniq %}
-
+    {% assign now = 'now' | date: '%s' %}
+    {% assign future_dates = "" | split: "" %}
+    {% for item in everything %}
+        {% assign item_date = item.date | date: '%s' %}
+        {% if item_date <= now %}
+            {% assign future_dates = future_dates | push: item.due_date %}
+        {% endif %}
+    {% endfor %}
+    {% assign dates = future_dates | sort | uniq %}
+    
     <p>
         Note: This schedule is subject to change (as needed). 
         In addition, unless otherwise indicated, tutorials are always due on Wednesday at 11:59PM

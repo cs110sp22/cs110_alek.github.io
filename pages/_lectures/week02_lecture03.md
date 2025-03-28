@@ -9,6 +9,7 @@ draft: 0
 description:
     - Some useful built-in functions
     - Parameters and arguments
+date: 2025-04-04
 due_date: 2025-04-15
 slides:
   - url: https://docs.google.com/presentation/d/1ZAIOn7dIpM_Afq_KSAvyb4M0WHJDYkXr/edit?usp=sharing&ouid=114823705687801952013&rtpof=true&sd=true

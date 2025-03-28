@@ -6,6 +6,7 @@ description:
 type: quiz
 draft: 0
 num: 2
+date: 2025-05-09
 due_date: 2025-05-13
 ---
 

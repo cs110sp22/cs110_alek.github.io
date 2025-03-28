@@ -7,6 +7,7 @@ num: 5
 description:
   - Creating your own functions
   - Defining versus invoking functions
+date: 2025-04-11
 due_date: 2025-04-17
 # quiz_url: https://canvas.northwestern.edu/courses/188296/quizzes/203400
 slides:

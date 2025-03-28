@@ -9,6 +9,7 @@ num: 2
 description: 
     - Practice creating custom functions
     - Intro to Tkinter
+date: 2025-04-09
 due_date: 2025-04-16
 ---
 

@@ -7,6 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 15
+date: 2025-05-23
 due_date: 2025-05-27
 readings:
   - title: "Ch9: Dictionaries"

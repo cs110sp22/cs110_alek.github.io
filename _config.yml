@@ -22,8 +22,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/"
 term_start_date: "2025-04-01"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
+future: true # Do not publish posts until after their publish date.
 piazza_url: "https://piazza.com/northwestern/spring2025/cs110"
 timezone: "America/Chicago"
 # Build settings

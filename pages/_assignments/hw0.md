@@ -3,6 +3,7 @@ layout: assignment-two-column
 title: Sign up for a Tutorial Session
 abbreviation: HW0
 type: homework
+date: 2025-03-27
 due_date: 2025-04-04
 ordering: 0
 draft: 0

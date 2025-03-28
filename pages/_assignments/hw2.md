@@ -3,6 +3,7 @@ layout: assignment-two-column
 title: Intro to Tkinter
 abbreviation: HW2
 type: homework
+date: 2025-04-11
 due_date: 2025-04-18
 ordering: 1 
 points: 8
