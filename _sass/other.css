@@ -1,0 +1,7 @@
+.inactiveWeek {
+  opacity: 0.5;
+}
+
+.inactiveWeek:hover {
+  opacity: 1;
+}

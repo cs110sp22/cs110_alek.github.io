@@ -21,10 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   at Northwestern University, Spring 2025.
 baseurl: "/"
 term_start_date: "2025-04-01"
+term_end_date: "2025-06-13"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-future: true # Do not publish posts until after their publish date.
+future: true # Allow posts with a future date to be shown
 piazza_url: "https://piazza.com/northwestern/spring2025/cs110"
 timezone: "America/Chicago"
 # Build settings

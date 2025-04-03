@@ -9,9 +9,7 @@ layout: default
     {% assign future_dates = "" | split: "" %}
     {% for item in everything %}
         {% assign item_date = item.date | date: '%s' %}
-        {% if item_date <= now %}
-            {% assign future_dates = future_dates | push: item.due_date %}
-        {% endif %}
+        {% assign future_dates = future_dates | push: item.due_date %}
     {% endfor %}
     {% assign dates = future_dates | sort | uniq %}
     
@@ -39,18 +37,33 @@ layout: default
             {% assign diffSeconds = lectureDate | minus: dateStart %}
             {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
             {% assign week = diffDays | divided_by: 7 | plus: 1 %}
-            <tr>
-                <th>
+            {% assign shouldLink = false %}
+            {% assign rowClass = "activeWeek" %}
+            {% if lecture %}
+                {% if lectureDate <= now %}
+                    {% assign shouldLink = true %}
+                {% else %}
+                    {% assign rowClass = "inactiveWeek" %}
+                {% endif %}
+            {% else %}
+                {% assign lastAssignment = site.assignments | where: 'due_date', date | last %}
+                {% assign lastAssignmentDate = lastAssignment.date | date: '%s' %}
+                {% if lastAssignmentDate > now %}
+                    {% assign rowClass = "inactiveWeek" %}
+                {% endif %}
+            {% endif %}
+            <tr class="{{ rowClass }}">
+                <td>
                 {% if week != last_week %}
                     Week {{week}}
                 {% endif %}
                 <span class="due-date">
                     {{ date | date: "%m/%d/%y" }}
                 </span>
-                </th>
+                </td>
                 {% if lecture %}
                     <!-- If lecture -->
-                    <td> 
+                    <td>
                         {{ date | date: "%a, %m/%d" }}
                         <!-- {% comment %}
                         {% if lecture.type != 'lab' %}
@@ -80,9 +93,15 @@ layout: default
                                 {{ prefix }}
                             </span>
                         {% elsif prefix %} 
-                            <a id="l{{lecture.num}}" class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
-                                {{ prefix }} <i class="fas fa-link"></i>
-                            </a>
+                            {% if shouldLink %}
+                                <a id="l{{lecture.num}}" class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
+                                    {{ prefix }} <i class="fas fa-link"></i>
+                                </a>
+                            {% else %}
+                                <span class="{{ className }}">
+                                    {{ prefix }}
+                                </span>
+                            {% endif %}
                         {% endif %}
                         {% if lecture.type == 'lab' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quiz' %}
                             {% if lecture.draft == 1 %}
@@ -122,14 +141,25 @@ layout: default
                         {% if assignment.type == "tutorial" %}
                             {% assign classname = "lab" %}
                         {% endif %} 
+                        {% assign assignmentDate = assignment.date | date: '%s' %}
+                        {% assign shouldLink = false %}
+                        {% if assignmentDate <= now %}
+                            {% assign shouldLink = true %}
+                        {% endif %}
                         
                         {% if assignment.draft == 1 %}
                             <strong>{{ assignment.abbreviation }}:</strong>
                         {% else %} 
-                            <a href="{{site.baseurl}}{{assignment.url}}" class="{{classname}}">
-                                {{ assignment.abbreviation }}
-                                <i class="fa fa-link"></i>
-                            </a>
+                            {% if shouldLink %}
+                                <a href="{{site.baseurl}}{{assignment.url}}" class="{{classname}}">
+                                    {{ assignment.abbreviation }}
+                                    <i class="fa fa-link"></i>
+                                </a>
+                            {% else %}
+                                <span class="{{classname}}">
+                                    {{ assignment.abbreviation }}
+                                </span>
+                            {% endif %}
                         {% endif %} 
                         {{ assignment.title }}<br>
                     {% endfor %}
