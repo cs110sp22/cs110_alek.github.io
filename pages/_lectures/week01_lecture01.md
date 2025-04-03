@@ -26,10 +26,6 @@ extras:
     comments: "Sign up for a tutorial here!"
     url: "https://docs.google.com/spreadsheets/d/1ncqAwBbQoYA6KeCYivTGPgPYyF8NBjr6SB4IWsaqfJM/edit?usp=sharing"
     external: 1
-  - title: "Course Questionnaire"
-    comments: "Please complete the pre-course questionnaire by tonight (3/31)!"
-    url: "https://forms.gle/o2WPfG8ArnAkbru3A"
-    external: 1
 ---
 
 
