@@ -7,7 +7,7 @@ description:
 type: lecture
 draft: 0
 num: 10
-date: 2025-05-02
+date: 2025-05-01
 due_date: 2025-05-06
 slides: 
    - title: "More Loops: For Loops & Lists"

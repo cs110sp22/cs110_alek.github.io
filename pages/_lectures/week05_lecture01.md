@@ -7,7 +7,7 @@ num: 8
 description:
   - If / Else
   - Booleans
-date: 2025-04-25
+date: 2025-04-24
 due_date: 2025-04-29
 slides: 
    - title: "Conditionals & Boolean Logic"
