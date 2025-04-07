@@ -13,7 +13,7 @@ date: 2025-04-02
 due_date: 2025-04-09
 ---
 
-**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1epNYAIB3sNFyeAligfU2GfwEpfRt81pVmPF4hwXGTRk/edit#gid=0" target="_blank">here</a>. 
+**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1ncqAwBbQoYA6KeCYivTGPgPYyF8NBjr6SB4IWsaqfJM/edit?usp=sharing" target="_blank">here</a>. 
 
 In tutorial today, you will meet your peer mentor and fellow classmates, install Python3 (if you haven't already), and write a few simple programs.
 
