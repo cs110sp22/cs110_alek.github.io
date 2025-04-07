@@ -35,10 +35,10 @@ videos:
   - title: "Logical operators and Truth Tables"
     url: https://drive.google.com/file/d/1XEgW2mX2SF6qfCkH6ya8qRUbD6XwFz5m/view?usp=sharing
     duration: "25:34"
-  - title: "Practice with conditional statements"
-    url: https://drive.google.com/file/d/1PPjAaNaOA4qpkVKKn6cE2P7fpKGOeAj5/view?usp=sharing
-    duration: ""
-    live: 1
+#  - title: "Practice with conditional statements"
+#    url: https://drive.google.com/file/d/1PPjAaNaOA4qpkVKKn6cE2P7fpKGOeAj5/view?usp=sharing
+#    duration: ""
+#    live: 1
 
 exercise_url: "lecture08.zip"
 ---
