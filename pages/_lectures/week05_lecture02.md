@@ -8,8 +8,8 @@ description:
 type: lecture
 draft: 0
 num: 9
-date: 2025-04-24
-due_date: 2025-05-01
+date: 2026-04-23
+due_date: 2026-04-30
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
      url: https://docs.google.com/presentation/d/1ze0rC2P5IKMNoJwaw6rNL0AyFa0xC4Hj/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true

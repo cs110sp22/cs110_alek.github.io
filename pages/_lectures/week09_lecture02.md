@@ -8,8 +8,8 @@ description:
 type: lecture
 draft: 0
 num: 16
-date: 2025-05-22
-due_date: 2025-05-29
+date: 2026-05-21
+due_date: 2026-05-28
 exercise_url: "lecture16.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"

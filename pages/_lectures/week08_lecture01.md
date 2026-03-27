@@ -7,8 +7,8 @@ description:
 type: lecture
 draft: 0
 num: 13
-date: 2025-05-15
-due_date: 2025-05-20
+date: 2026-05-14
+due_date: 2026-05-19
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: https://docs.google.com/file/d/15r1yX9Y9ka3IeV1o2l2qWYr0lwqSDP9C/edit?usp=docslist_api&filetype=mspresentation

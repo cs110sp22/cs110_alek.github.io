@@ -10,8 +10,8 @@ draft: 0
 description:
     - Intro to the command line
     - Lists and tuples (sequences)
-date: 2025-04-03
-due_date: 2025-04-10
+date: 2026-04-02
+due_date: 2026-04-09
 slides:
   - url: https://docs.google.com/presentation/d/1yNOO31B4off_u9wAh541qroD2muYkKTa/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
     title: "The Command Line, Running Python, Lists & Tuples"

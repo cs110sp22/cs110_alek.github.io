@@ -7,8 +7,8 @@ description:
 type: lecture
 draft: 0
 num: 12
-date: 2025-05-08
-due_date: 2025-05-15
+date: 2026-05-07
+due_date: 2026-05-14
 slides: 
    - title: "Working with Files"
      url: https://drive.google.com/file/d/1yAABKk0F1R6xaZ6Wox5ciOf8BQ-9m2yw/view?usp=sharing

@@ -8,8 +8,8 @@ description:
 type: lecture
 draft: 0
 num: 11
-date: 2025-05-01
-due_date: 2025-05-08
+date: 2026-04-30
+due_date: 2026-05-07
 slides: 
    - title: "Handling User Input & Event Handlers"
      url: https://docs.google.com/presentation/d/1aJFslj5__ECTGABtJ3TGpTJGUMa45f7p/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true

@@ -8,8 +8,8 @@ description:
 type: lecture
 draft: 0
 num: 17
-date: 2025-05-29
-due_date: 2025-06-03
+date: 2026-05-28
+due_date: 2026-06-02
 exercise_url: "lecture17.zip"
 slides:
    - title: "Practice with Cloud-Based Services"
