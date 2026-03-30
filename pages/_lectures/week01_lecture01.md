@@ -24,7 +24,7 @@ videos:
 extras:
   - title: "Tutorial Signup"
     comments: "Sign up for a tutorial here!"
-    url: "https://docs.google.com/spreadsheets/d/1ncqAwBbQoYA6KeCYivTGPgPYyF8NBjr6SB4IWsaqfJM/edit?usp=sharing"
+    url: "https://docs.google.com/spreadsheets/d/1BIveMFipBVIYp6AarBlb4zqQZw0lJjwAktZ9wl0pCq0/edit?usp=sharing"
     external: 1
 ---
 

@@ -13,7 +13,7 @@ date: 2026-04-01
 due_date: 2026-04-08
 ---
 
-**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1ncqAwBbQoYA6KeCYivTGPgPYyF8NBjr6SB4IWsaqfJM/edit?usp=sharing" target="_blank">here</a>. 
+**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1BIveMFipBVIYp6AarBlb4zqQZw0lJjwAktZ9wl0pCq0/edit?usp=sharing" target="_blank">here</a>. 
 
 In tutorial today, you will meet your peer mentor and fellow classmates, install Python3 (if you haven't already), and write a few simple programs.
 
