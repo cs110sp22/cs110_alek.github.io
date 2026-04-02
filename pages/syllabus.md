@@ -11,7 +11,7 @@ permalink: /syllabus/
 | **Instructor** | Aleksandar Kuzmanovic (akuzma@northwestern.edu)|
 | **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required. |
-| **Lecture Location** | Pancoe Building Abbott Auditorium |
+| **Lecture Location** | Annenberg Hall G21 |
 
 ## About the Course
 
