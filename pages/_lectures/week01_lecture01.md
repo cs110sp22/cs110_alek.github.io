@@ -12,7 +12,7 @@ due_date: 2026-04-02
 slides:
    - url: https://docs.google.com/presentation/d/15IBvC8D2LHwh_O_f0wJIr3p0K6SeU8XU/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true 
      title: Hardware & Software
-   - url: https://docs.google.com/presentation/d/1NZ0GU-AW5AnmfOmPkLgmQoShn4ohZXBE/edit?usp=sharing&ouid=117551212520532352302&rtpof=true&sd=true
+   - url: https://docs.google.com/presentation/d/1gy4Ho5uYCBXr3FJIedwSpN9AIsNjxd9-/edit?usp=sharing&ouid=100524719489454525689&rtpof=true&sd=true
      title: Course Logistics
 
 videos:
