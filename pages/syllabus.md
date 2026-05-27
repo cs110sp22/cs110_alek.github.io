@@ -137,7 +137,7 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 >
 > - drop your lowest quiz score (best 2 of 3)
 > - drop your lowest homework score (best 5 of 6)
-> - Keep your best 7 tutorial scores (best 7 of 9)
+> - Keep your best 7 tutorial scores (best 7 of 8)
 >
 > I have done this to make the class equitable. Use this leniency wisely. In other words, skipping HW1, Quiz1, and Tutorial1-2 is an ill-advised approach. **I will not grant additional exceptions unless the circumstances are truly exceptional, and this will need to go through the Dean of Students (or some similar NU entity).**
 
